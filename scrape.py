@@ -5,12 +5,30 @@ from bs4 import BeautifulSoup
 from dateutil import parser as dateparse
 from playwright.sync_api import sync_playwright
 import requests
+import statsapi
 
 
 @click.group()
 def cli():
     """Scrape data."""
     pass
+
+
+@cli.command()
+def standings():
+    """Scrape standings from the MLB API."""
+    # Get the data
+    data = statsapi.standings_data(
+        leagueId="103,104",
+        division="all",
+        include_wildcard=True,
+        season=None,
+        standingsTypes=None,
+        date=None
+    )
+    # Write it out
+    with open("./data/standings.json", "w") as fp:
+        json.dump(data, fp, indent=2, sort_keys=True)
 
 
 @cli.command()

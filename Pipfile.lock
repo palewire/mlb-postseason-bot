@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5afa1a3b61ed4a40dee097feb6095375c097cc9acec99e7a00e194e74009f4f1"
+            "sha256": "9018bad084f220e882ee0a5ecaa3f9864fee54d808779762efa0961d0480c218"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -130,6 +130,14 @@
             ],
             "markers": "python_version >= '3'",
             "version": "==3.3"
+        },
+        "mlb-statsapi": {
+            "hashes": [
+                "sha256:93764e7dd598b2895e31153fe00e9df27a222c7345da2da42b346802814f0939",
+                "sha256:df1fb38c4e778b4fd1eae90cde442893e66810cc5bf9031873b82e38b1d01eef"
+            ],
+            "index": "pypi",
+            "version": "==1.4.1"
         },
         "playwright": {
             "hashes": [
