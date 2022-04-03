@@ -2,6 +2,7 @@ import json
 
 import click
 from bs4 import BeautifulSoup
+from datetime import datetime
 from dateutil import parser as dateparse
 from playwright.sync_api import sync_playwright
 import requests
@@ -103,6 +104,9 @@ def fangraphs():
 
     # Write it out
     with open("./data/fangraphs.json", "w") as fp:
+        json.dump(team_dict, fp, indent=2, sort_keys=True)
+
+    with open(f"./data/fangraphs-{datetime.today().date()}.json", "w") as fp:
         json.dump(team_dict, fp, indent=2, sort_keys=True)
 
 
