@@ -11,6 +11,7 @@ html5lib = "*"
 playwright = "*"
 python-dateutil = "*"
 mlb-statsapi = "*"
+python-twitter = "*"
 
 [dev-packages]
 

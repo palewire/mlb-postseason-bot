@@ -1,8 +1,10 @@
 from datetime import datetime
 import json
+import os
 
 import click
 from dateutil import parser as dateparse
+import twitter
 
 
 @click.group
@@ -14,6 +16,7 @@ def cli():
 @cli.command()
 def cubs():
     """Post the latest data."""
+    # Open the data
     standings = json.load(open("./data/standings.json", "r"))
     team_standings = next(t for t in standings['205']['teams'] if t['name'] == 'Chicago Cubs')
 
@@ -23,7 +26,8 @@ def cubs():
 
     projections = json.load(open("./data/fangraphs.json", "r"))
 
-    message = f"""⚾🧮 @Cubs Status Report 🧮⚾
+    # Format the message
+    message = f"""⚾🧮 @Cubs Postseason Update 🧮⚾
 
 {team_standings['w']} wins
 {team_standings['l']} losses
@@ -31,9 +35,22 @@ def cubs():
 {len(games_left)} games left
 {len(until_deadline)} games until the Aug. 3 trade deadline
 
-{projections['Cubs']}% chance of making the postseason, according to @fangraphs
+{projections['Cubs']}% chance of making the playoffs, according to @fangraphs
 """
-    click.echo(message)
+
+    # Tweet it
+    api = get_twitter_client()
+    status = api.PostUpdate(message)
+
+
+def get_twitter_client():
+    """Return a Twitter client ready to post to the API."""
+    return twitter.Api(
+        consumer_key=os.getenv("TWITTER_CONSUMER_KEY"),
+        consumer_secret=os.getenv("TWITTER_CONSUMER_SECRET"),
+        access_token_key=os.getenv("TWITTER_ACCESS_TOKEN_KEY"),
+        access_token_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET"),
+    )
 
 
 if __name__ == "__main__":
