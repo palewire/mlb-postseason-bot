@@ -31,7 +31,7 @@ def cubs():
     message = f"""⚾🧮 @Cubs Postseason Update 🧮⚾
 
 {team_standings['w']} win{pluralize(team_standings['w'])}
-{team_standings['l']} loss{pluralize(team_standings['w'], 'es')}
+{team_standings['l']} loss{pluralize(team_standings['l'], 'es')}
 
 {len(games_left)} games left
 {len(until_deadline)} games until the Aug. 3 trade deadline
