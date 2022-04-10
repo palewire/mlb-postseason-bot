@@ -3,7 +3,7 @@ name: Tweet
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "0 12 * * *"
 
 jobs:
   scrape:
