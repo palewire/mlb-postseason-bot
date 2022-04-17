@@ -65,7 +65,7 @@
         "l": 6,
         "league_rank": "15",
         "name": "Texas Rangers",
-        "sport_rank": "30",
+        "sport_rank": "29",
         "team_id": 140,
         "w": 2,
         "wc_elim_num": "152",
@@ -247,9 +247,9 @@
         "gb": "-",
         "l": 2,
         "league_rank": "2",
-        "name": "San Francisco Giants",
+        "name": "Los Angeles Dodgers",
         "sport_rank": "3",
-        "team_id": 137,
+        "team_id": 119,
         "w": 6,
         "wc_elim_num": "-",
         "wc_gb": "+2.0",
@@ -257,16 +257,16 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "155",
-        "gb": "0.5",
+        "elim_num": "-",
+        "gb": "-",
         "l": 2,
         "league_rank": "3",
-        "name": "Los Angeles Dodgers",
+        "name": "San Francisco Giants",
         "sport_rank": "4",
-        "team_id": 119,
-        "w": 5,
+        "team_id": 137,
+        "w": 6,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+2.0",
         "wc_rank": "3"
       },
       {
@@ -293,7 +293,7 @@
         "sport_rank": "24",
         "team_id": 109,
         "w": 3,
-        "wc_elim_num": "153",
+        "wc_elim_num": "152",
         "wc_gb": "1.0",
         "wc_rank": "11"
       }
@@ -340,7 +340,7 @@
         "sport_rank": "20",
         "team_id": 143,
         "w": 4,
-        "wc_elim_num": "153",
+        "wc_elim_num": "152",
         "wc_gb": "0.5",
         "wc_rank": "9"
       },
@@ -354,7 +354,7 @@
         "sport_rank": "23",
         "team_id": 120,
         "w": 4,
-        "wc_elim_num": "152",
+        "wc_elim_num": "151",
         "wc_gb": "1.0",
         "wc_rank": "10"
       },
@@ -368,7 +368,7 @@
         "sport_rank": "26",
         "team_id": 146,
         "w": 3,
-        "wc_elim_num": "153",
+        "wc_elim_num": "152",
         "wc_gb": "1.0",
         "wc_rank": "12"
       }
@@ -429,22 +429,22 @@
         "sport_rank": "19",
         "team_id": 158,
         "w": 4,
-        "wc_elim_num": "153",
+        "wc_elim_num": "152",
         "wc_gb": "0.5",
         "wc_rank": "8"
       },
       {
         "div_rank": "5",
-        "elim_num": "152",
-        "gb": "3.5",
-        "l": 6,
+        "elim_num": "151",
+        "gb": "4.0",
+        "l": 7,
         "league_rank": "15",
         "name": "Cincinnati Reds",
-        "sport_rank": "29",
+        "sport_rank": "30",
         "team_id": 113,
         "w": 2,
-        "wc_elim_num": "152",
-        "wc_gb": "2.0",
+        "wc_elim_num": "150",
+        "wc_gb": "2.5",
         "wc_rank": "13"
       }
     ]
