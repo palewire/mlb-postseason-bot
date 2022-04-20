@@ -215,7 +215,7 @@
         "l": 7,
         "league_rank": "13",
         "name": "Minnesota Twins",
-        "sport_rank": "25",
+        "sport_rank": "26",
         "team_id": 142,
         "w": 4,
         "wc_elim_num": "150",
@@ -243,16 +243,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "151",
-        "gb": "0.5",
-        "l": 3,
+        "elim_num": "150",
+        "gb": "1.0",
+        "l": 4,
         "league_rank": "3",
         "name": "Colorado Rockies",
         "sport_rank": "3",
         "team_id": 115,
         "w": 8,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+0.5",
         "wc_rank": "1"
       },
       {
@@ -361,15 +361,15 @@
       {
         "div_rank": "5",
         "elim_num": "146",
-        "gb": "5.0",
+        "gb": "4.5",
         "l": 8,
         "league_rank": "13",
         "name": "Philadelphia Phillies",
-        "sport_rank": "26",
+        "sport_rank": "25",
         "team_id": 143,
-        "w": 4,
+        "w": 5,
         "wc_elim_num": "147",
-        "wc_gb": "3.5",
+        "wc_gb": "3.0",
         "wc_rank": "10"
       }
     ]
