@@ -18,14 +18,14 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "150",
+        "elim_num": "149",
         "gb": "0.5",
-        "l": 5,
+        "l": 6,
         "league_rank": "4",
-        "name": "Seattle Mariners",
+        "name": "Oakland Athletics",
         "sport_rank": "11",
-        "team_id": 136,
-        "w": 7,
+        "team_id": 133,
+        "w": 8,
         "wc_elim_num": "-",
         "wc_gb": "+0.5",
         "wc_rank": "1"
@@ -33,16 +33,16 @@
       {
         "div_rank": "3",
         "elim_num": "149",
-        "gb": "0.5",
+        "gb": "1.0",
         "l": 6,
-        "league_rank": "5",
-        "name": "Oakland Athletics",
-        "sport_rank": "12",
-        "team_id": 133,
-        "w": 8,
+        "league_rank": "6",
+        "name": "Seattle Mariners",
+        "sport_rank": "13",
+        "team_id": 136,
+        "w": 7,
         "wc_elim_num": "-",
-        "wc_gb": "+0.5",
-        "wc_rank": "2"
+        "wc_gb": "-",
+        "wc_rank": "3"
       },
       {
         "div_rank": "4",
@@ -61,15 +61,15 @@
       {
         "div_rank": "5",
         "elim_num": "146",
-        "gb": "5.0",
+        "gb": "4.5",
         "l": 9,
         "league_rank": "15",
         "name": "Texas Rangers",
         "sport_rank": "29",
         "team_id": 140,
-        "w": 2,
+        "w": 3,
         "wc_elim_num": "147",
-        "wc_gb": "4.0",
+        "wc_gb": "3.5",
         "wc_rank": "12"
       }
     ]
@@ -96,14 +96,14 @@
         "elim_num": "149",
         "gb": "1.0",
         "l": 6,
-        "league_rank": "6",
+        "league_rank": "5",
         "name": "New York Yankees",
-        "sport_rank": "13",
+        "sport_rank": "12",
         "team_id": 147,
         "w": 7,
         "wc_elim_num": "-",
         "wc_gb": "-",
-        "wc_rank": "3"
+        "wc_rank": "2"
       },
       {
         "div_rank": "3",
