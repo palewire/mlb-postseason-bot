@@ -13,7 +13,7 @@
         "team_id": 108,
         "w": 8,
         "wc_elim_num": "-",
-        "wc_gb": "+0.5",
+        "wc_gb": "+1.0",
         "wc_rank": "2"
       },
       {
@@ -27,14 +27,14 @@
         "team_id": 136,
         "w": 8,
         "wc_elim_num": "-",
-        "wc_gb": "+0.5",
+        "wc_gb": "+1.0",
         "wc_rank": "3"
       },
       {
         "div_rank": "3",
-        "elim_num": "148",
-        "gb": "0.5",
-        "l": 7,
+        "elim_num": "147",
+        "gb": "1.0",
+        "l": 8,
         "league_rank": "5",
         "name": "Oakland Athletics",
         "sport_rank": "12",
@@ -55,21 +55,21 @@
         "team_id": 117,
         "w": 6,
         "wc_elim_num": "148",
-        "wc_gb": "1.0",
+        "wc_gb": "0.5",
         "wc_rank": "9"
       },
       {
         "div_rank": "5",
         "elim_num": "146",
-        "gb": "3.5",
+        "gb": "3.0",
         "l": 9,
         "league_rank": "15",
         "name": "Texas Rangers",
-        "sport_rank": "29",
+        "sport_rank": "28",
         "team_id": 140,
-        "w": 4,
+        "w": 5,
         "wc_elim_num": "146",
-        "wc_gb": "3.0",
+        "wc_gb": "2.0",
         "wc_rank": "13"
       }
     ]
@@ -102,7 +102,7 @@
         "team_id": 147,
         "w": 9,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+1.5",
         "wc_rank": "1"
       },
       {
@@ -115,8 +115,8 @@
         "sport_rank": "13",
         "team_id": 111,
         "w": 7,
-        "wc_elim_num": "148",
-        "wc_gb": "0.5",
+        "wc_elim_num": "-",
+        "wc_gb": "-",
         "wc_rank": "5"
       },
       {
@@ -129,8 +129,8 @@
         "sport_rank": "15",
         "team_id": 139,
         "w": 7,
-        "wc_elim_num": "148",
-        "wc_gb": "0.5",
+        "wc_elim_num": "-",
+        "wc_gb": "-",
         "wc_rank": "6"
       },
       {
@@ -144,7 +144,7 @@
         "team_id": 110,
         "w": 5,
         "wc_elim_num": "146",
-        "wc_gb": "2.5",
+        "wc_gb": "2.0",
         "wc_rank": "12"
       }
     ]
@@ -177,7 +177,7 @@
         "team_id": 145,
         "w": 6,
         "wc_elim_num": "148",
-        "wc_gb": "1.0",
+        "wc_gb": "0.5",
         "wc_rank": "7"
       },
       {
@@ -191,7 +191,7 @@
         "team_id": 116,
         "w": 6,
         "wc_elim_num": "148",
-        "wc_gb": "1.0",
+        "wc_gb": "0.5",
         "wc_rank": "8"
       },
       {
@@ -205,7 +205,7 @@
         "team_id": 142,
         "w": 6,
         "wc_elim_num": "147",
-        "wc_gb": "1.5",
+        "wc_gb": "1.0",
         "wc_rank": "10"
       },
       {
@@ -219,7 +219,7 @@
         "team_id": 118,
         "w": 5,
         "wc_elim_num": "148",
-        "wc_gb": "1.5",
+        "wc_gb": "1.0",
         "wc_rank": "11"
       }
     ]
@@ -365,7 +365,7 @@
         "l": 11,
         "league_rank": "14",
         "name": "Washington Nationals",
-        "sport_rank": "28",
+        "sport_rank": "29",
         "team_id": 120,
         "w": 6,
         "wc_elim_num": "144",
