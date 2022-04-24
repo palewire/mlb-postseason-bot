@@ -13,7 +13,7 @@
         "team_id": 108,
         "w": 8,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+0.5",
         "wc_rank": "2"
       },
       {
@@ -27,7 +27,7 @@
         "team_id": 136,
         "w": 8,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+0.5",
         "wc_rank": "3"
       },
       {
@@ -35,14 +35,14 @@
         "elim_num": "147",
         "gb": "1.0",
         "l": 8,
-        "league_rank": "5",
+        "league_rank": "6",
         "name": "Oakland Athletics",
-        "sport_rank": "12",
+        "sport_rank": "13",
         "team_id": 133,
         "w": 8,
-        "wc_elim_num": "-",
-        "wc_gb": "-",
-        "wc_rank": "4"
+        "wc_elim_num": "147",
+        "wc_gb": "0.5",
+        "wc_rank": "5"
       },
       {
         "div_rank": "4",
@@ -55,7 +55,7 @@
         "team_id": 117,
         "w": 6,
         "wc_elim_num": "147",
-        "wc_gb": "1.0",
+        "wc_gb": "1.5",
         "wc_rank": "10"
       },
       {
@@ -69,7 +69,7 @@
         "team_id": 140,
         "w": 5,
         "wc_elim_num": "146",
-        "wc_gb": "2.0",
+        "wc_gb": "2.5",
         "wc_rank": "13"
       }
     ]
@@ -102,35 +102,35 @@
         "team_id": 147,
         "w": 9,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+1.0",
         "wc_rank": "1"
       },
       {
         "div_rank": "3",
         "elim_num": "146",
-        "gb": "2.5",
+        "gb": "2.0",
         "l": 7,
-        "league_rank": "6",
-        "name": "Boston Red Sox",
-        "sport_rank": "13",
-        "team_id": 111,
-        "w": 7,
+        "league_rank": "5",
+        "name": "Tampa Bay Rays",
+        "sport_rank": "12",
+        "team_id": 139,
+        "w": 8,
         "wc_elim_num": "-",
         "wc_gb": "-",
-        "wc_rank": "5"
+        "wc_rank": "4"
       },
       {
         "div_rank": "4",
-        "elim_num": "146",
-        "gb": "2.5",
-        "l": 7,
+        "elim_num": "145",
+        "gb": "3.0",
+        "l": 8,
         "league_rank": "8",
-        "name": "Tampa Bay Rays",
-        "sport_rank": "15",
-        "team_id": 139,
+        "name": "Boston Red Sox",
+        "sport_rank": "16",
+        "team_id": 111,
         "w": 7,
-        "wc_elim_num": "-",
-        "wc_gb": "-",
+        "wc_elim_num": "147",
+        "wc_gb": "1.0",
         "wc_rank": "6"
       },
       {
@@ -144,7 +144,7 @@
         "team_id": 110,
         "w": 5,
         "wc_elim_num": "146",
-        "wc_gb": "2.0",
+        "wc_gb": "2.5",
         "wc_rank": "12"
       }
     ]
@@ -177,21 +177,21 @@
         "team_id": 142,
         "w": 7,
         "wc_elim_num": "147",
-        "wc_gb": "0.5",
+        "wc_gb": "1.0",
         "wc_rank": "7"
       },
       {
         "div_rank": "3",
-        "elim_num": "149",
-        "gb": "0.5",
-        "l": 7,
+        "elim_num": "148",
+        "gb": "1.0",
+        "l": 8,
         "league_rank": "10",
-        "name": "Detroit Tigers",
+        "name": "Chicago White Sox",
         "sport_rank": "20",
-        "team_id": 116,
+        "team_id": 145,
         "w": 6,
-        "wc_elim_num": "148",
-        "wc_gb": "0.5",
+        "wc_elim_num": "147",
+        "wc_gb": "1.5",
         "wc_rank": "8"
       },
       {
@@ -200,12 +200,12 @@
         "gb": "1.0",
         "l": 8,
         "league_rank": "11",
-        "name": "Chicago White Sox",
+        "name": "Detroit Tigers",
         "sport_rank": "21",
-        "team_id": 145,
+        "team_id": 116,
         "w": 6,
         "wc_elim_num": "147",
-        "wc_gb": "1.0",
+        "wc_gb": "1.5",
         "wc_rank": "9"
       },
       {
@@ -219,7 +219,7 @@
         "team_id": 118,
         "w": 5,
         "wc_elim_num": "148",
-        "wc_gb": "1.0",
+        "wc_gb": "1.5",
         "wc_rank": "11"
       }
     ]
@@ -258,15 +258,15 @@
       {
         "div_rank": "3",
         "elim_num": "148",
-        "gb": "2.0",
+        "gb": "1.5",
         "l": 5,
         "league_rank": "5",
         "name": "Colorado Rockies",
         "sport_rank": "6",
         "team_id": 115,
-        "w": 8,
+        "w": 9,
         "wc_elim_num": "-",
-        "wc_gb": "-",
+        "wc_gb": "+0.5",
         "wc_rank": "2"
       },
       {
@@ -323,7 +323,7 @@
         "l": 8,
         "league_rank": "8",
         "name": "Atlanta Braves",
-        "sport_rank": "16",
+        "sport_rank": "15",
         "team_id": 144,
         "w": 7,
         "wc_elim_num": "146",
