@@ -11,15 +11,15 @@
         "name": "Seattle Mariners",
         "sport_rank": "10",
         "team_id": 136,
-        "w": 8,
+        "w": 9,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "148",
-        "gb": "0.5",
+        "elim_num": "147",
+        "gb": "1.0",
         "l": 7,
         "league_rank": "4",
         "name": "Los Angeles Angels",
@@ -32,8 +32,8 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "147",
-        "gb": "1.0",
+        "elim_num": "146",
+        "gb": "1.5",
         "l": 8,
         "league_rank": "6",
         "name": "Oakland Athletics",
@@ -46,8 +46,8 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "147",
-        "gb": "2.0",
+        "elim_num": "146",
+        "gb": "2.5",
         "l": 8,
         "league_rank": "12",
         "name": "Houston Astros",
@@ -60,8 +60,8 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "146",
-        "gb": "3.0",
+        "elim_num": "145",
+        "gb": "3.5",
         "l": 9,
         "league_rank": "15",
         "name": "Texas Rangers",
@@ -138,14 +138,14 @@
         "elim_num": "144",
         "gb": "4.0",
         "l": 9,
-        "league_rank": "14",
+        "league_rank": "13",
         "name": "Baltimore Orioles",
-        "sport_rank": "26",
+        "sport_rank": "25",
         "team_id": 110,
         "w": 6,
         "wc_elim_num": "146",
         "wc_gb": "2.0",
-        "wc_rank": "11"
+        "wc_rank": "10"
       }
     ]
   },
@@ -210,17 +210,17 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "149",
-        "gb": "1.0",
-        "l": 7,
-        "league_rank": "13",
+        "elim_num": "148",
+        "gb": "1.5",
+        "l": 8,
+        "league_rank": "14",
         "name": "Kansas City Royals",
-        "sport_rank": "24",
+        "sport_rank": "27",
         "team_id": 118,
         "w": 5,
-        "wc_elim_num": "148",
-        "wc_gb": "1.5",
-        "wc_rank": "10"
+        "wc_elim_num": "147",
+        "wc_gb": "2.0",
+        "wc_rank": "11"
       }
     ]
   },
@@ -290,7 +290,7 @@
         "l": 9,
         "league_rank": "12",
         "name": "Arizona Diamondbacks",
-        "sport_rank": "25",
+        "sport_rank": "24",
         "team_id": 109,
         "w": 6,
         "wc_elim_num": "145",
@@ -351,7 +351,7 @@
         "l": 9,
         "league_rank": "13",
         "name": "Philadelphia Phillies",
-        "sport_rank": "27",
+        "sport_rank": "26",
         "team_id": 143,
         "w": 6,
         "wc_elim_num": "145",
