@@ -347,16 +347,16 @@
       {
         "div_rank": "4",
         "elim_num": "138",
-        "gb": "5.5",
+        "gb": "5.0",
         "l": 11,
-        "league_rank": "12",
+        "league_rank": "10",
         "name": "Atlanta Braves",
-        "sport_rank": "20",
+        "sport_rank": "18",
         "team_id": 144,
-        "w": 8,
+        "w": 9,
         "wc_elim_num": "142",
-        "wc_gb": "3.0",
-        "wc_rank": "9"
+        "wc_gb": "2.5",
+        "wc_rank": "7"
       },
       {
         "div_rank": "5",
@@ -407,17 +407,17 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "140",
-        "gb": "4.0",
-        "l": 10,
-        "league_rank": "10",
+        "elim_num": "139",
+        "gb": "4.5",
+        "l": 11,
+        "league_rank": "12",
         "name": "Chicago Cubs",
-        "sport_rank": "18",
+        "sport_rank": "20",
         "team_id": 112,
         "w": 8,
-        "wc_elim_num": "143",
-        "wc_gb": "2.5",
-        "wc_rank": "7"
+        "wc_elim_num": "142",
+        "wc_gb": "3.0",
+        "wc_rank": "9"
       },
       {
         "div_rank": "4",
