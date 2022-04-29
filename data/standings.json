@@ -173,7 +173,7 @@
         "l": 10,
         "league_rank": "9",
         "name": "Kansas City Royals",
-        "sport_rank": "22",
+        "sport_rank": "21",
         "team_id": 118,
         "w": 7,
         "wc_elim_num": "142",
@@ -252,7 +252,7 @@
         "team_id": 119,
         "w": 12,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+1.0",
         "wc_rank": "1"
       },
       {
@@ -266,7 +266,7 @@
         "team_id": 135,
         "w": 13,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+1.0",
         "wc_rank": "2"
       },
       {
@@ -279,23 +279,23 @@
         "sport_rank": "14",
         "team_id": 115,
         "w": 10,
-        "wc_elim_num": "144",
-        "wc_gb": "1.0",
+        "wc_elim_num": "143",
+        "wc_gb": "1.5",
         "wc_rank": "5"
       },
       {
         "div_rank": "5",
-        "elim_num": "139",
-        "gb": "5.0",
-        "l": 11,
-        "league_rank": "11",
+        "elim_num": "138",
+        "gb": "5.5",
+        "l": 12,
+        "league_rank": "13",
         "name": "Arizona Diamondbacks",
-        "sport_rank": "19",
+        "sport_rank": "22",
         "team_id": 109,
         "w": 8,
-        "wc_elim_num": "142",
-        "wc_gb": "3.0",
-        "wc_rank": "8"
+        "wc_elim_num": "140",
+        "wc_gb": "4.0",
+        "wc_rank": "10"
       }
     ]
   },
@@ -326,8 +326,8 @@
         "sport_rank": "13",
         "team_id": 146,
         "w": 10,
-        "wc_elim_num": "145",
-        "wc_gb": "0.5",
+        "wc_elim_num": "144",
+        "wc_gb": "1.0",
         "wc_rank": "4"
       },
       {
@@ -340,8 +340,8 @@
         "sport_rank": "17",
         "team_id": 143,
         "w": 10,
-        "wc_elim_num": "143",
-        "wc_gb": "1.5",
+        "wc_elim_num": "142",
+        "wc_gb": "2.0",
         "wc_rank": "6"
       },
       {
@@ -354,8 +354,8 @@
         "sport_rank": "18",
         "team_id": 144,
         "w": 9,
-        "wc_elim_num": "142",
-        "wc_gb": "2.5",
+        "wc_elim_num": "141",
+        "wc_gb": "3.0",
         "wc_rank": "7"
       },
       {
@@ -368,8 +368,8 @@
         "sport_rank": "29",
         "team_id": 120,
         "w": 6,
-        "wc_elim_num": "138",
-        "wc_gb": "6.0",
+        "wc_elim_num": "137",
+        "wc_gb": "6.5",
         "wc_rank": "11"
       }
     ]
@@ -394,13 +394,13 @@
       {
         "div_rank": "2",
         "elim_num": "143",
-        "gb": "1.5",
+        "gb": "1.0",
         "l": 7,
         "league_rank": "6",
         "name": "St. Louis Cardinals",
         "sport_rank": "9",
         "team_id": 138,
-        "w": 10,
+        "w": 11,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "3"
@@ -410,28 +410,28 @@
         "elim_num": "139",
         "gb": "4.5",
         "l": 11,
-        "league_rank": "12",
+        "league_rank": "11",
         "name": "Chicago Cubs",
-        "sport_rank": "20",
+        "sport_rank": "19",
         "team_id": 112,
         "w": 8,
-        "wc_elim_num": "142",
-        "wc_gb": "3.0",
-        "wc_rank": "9"
+        "wc_elim_num": "141",
+        "wc_gb": "3.5",
+        "wc_rank": "8"
       },
       {
         "div_rank": "4",
         "elim_num": "139",
         "gb": "4.5",
         "l": 11,
-        "league_rank": "13",
+        "league_rank": "12",
         "name": "Pittsburgh Pirates",
-        "sport_rank": "21",
+        "sport_rank": "20",
         "team_id": 134,
         "w": 8,
-        "wc_elim_num": "142",
-        "wc_gb": "3.0",
-        "wc_rank": "10"
+        "wc_elim_num": "141",
+        "wc_gb": "3.5",
+        "wc_rank": "9"
       },
       {
         "div_rank": "5",
@@ -443,8 +443,8 @@
         "sport_rank": "30",
         "team_id": 113,
         "w": 3,
-        "wc_elim_num": "137",
-        "wc_gb": "8.0",
+        "wc_elim_num": "136",
+        "wc_gb": "8.5",
         "wc_rank": "12"
       }
     ]
