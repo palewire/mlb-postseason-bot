@@ -18,30 +18,30 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "138",
-        "gb": "2.0",
-        "l": 10,
-        "league_rank": "5",
-        "name": "Seattle Mariners",
-        "sport_rank": "13",
-        "team_id": 136,
+        "elim_num": "137",
+        "gb": "2.5",
+        "l": 11,
+        "league_rank": "6",
+        "name": "Houston Astros",
+        "sport_rank": "14",
+        "team_id": 117,
         "w": 12,
         "wc_elim_num": "-",
         "wc_gb": "-",
-        "wc_rank": "2"
+        "wc_rank": "3"
       },
       {
         "div_rank": "3",
         "elim_num": "137",
-        "gb": "3.0",
+        "gb": "2.5",
         "l": 11,
         "league_rank": "7",
-        "name": "Houston Astros",
+        "name": "Seattle Mariners",
         "sport_rank": "15",
-        "team_id": 117,
-        "w": 11,
-        "wc_elim_num": "140",
-        "wc_gb": "1.0",
+        "team_id": 136,
+        "w": 12,
+        "wc_elim_num": "-",
+        "wc_gb": "-",
         "wc_rank": "4"
       },
       {
@@ -55,7 +55,7 @@
         "team_id": 133,
         "w": 10,
         "wc_elim_num": "139",
-        "wc_gb": "2.0",
+        "wc_gb": "1.5",
         "wc_rank": "6"
       },
       {
@@ -69,7 +69,7 @@
         "team_id": 140,
         "w": 8,
         "wc_elim_num": "137",
-        "wc_gb": "4.0",
+        "wc_gb": "3.5",
         "wc_rank": "9"
       }
     ]
@@ -102,7 +102,7 @@
         "team_id": 141,
         "w": 15,
         "wc_elim_num": "-",
-        "wc_gb": "+2.0",
+        "wc_gb": "+2.5",
         "wc_rank": "1"
       },
       {
@@ -110,14 +110,14 @@
         "elim_num": "136",
         "gb": "4.5",
         "l": 10,
-        "league_rank": "6",
+        "league_rank": "5",
         "name": "Tampa Bay Rays",
-        "sport_rank": "14",
+        "sport_rank": "13",
         "team_id": 139,
         "w": 12,
         "wc_elim_num": "-",
-        "wc_gb": "-",
-        "wc_rank": "3"
+        "wc_gb": "+0.5",
+        "wc_rank": "2"
       },
       {
         "div_rank": "4",
@@ -130,7 +130,7 @@
         "team_id": 111,
         "w": 9,
         "wc_elim_num": "137",
-        "wc_gb": "3.5",
+        "wc_gb": "3.0",
         "wc_rank": "8"
       },
       {
@@ -144,7 +144,7 @@
         "team_id": 110,
         "w": 8,
         "wc_elim_num": "136",
-        "wc_gb": "4.5",
+        "wc_gb": "4.0",
         "wc_rank": "10"
       }
     ]
@@ -177,7 +177,7 @@
         "team_id": 114,
         "w": 10,
         "wc_elim_num": "139",
-        "wc_gb": "2.0",
+        "wc_gb": "1.5",
         "wc_rank": "5"
       },
       {
@@ -191,7 +191,7 @@
         "team_id": 145,
         "w": 9,
         "wc_elim_num": "138",
-        "wc_gb": "3.0",
+        "wc_gb": "2.5",
         "wc_rank": "7"
       },
       {
@@ -205,7 +205,7 @@
         "team_id": 116,
         "w": 7,
         "wc_elim_num": "137",
-        "wc_gb": "4.5",
+        "wc_gb": "4.0",
         "wc_rank": "11"
       },
       {
@@ -219,7 +219,7 @@
         "team_id": 118,
         "w": 7,
         "wc_elim_num": "137",
-        "wc_gb": "4.5",
+        "wc_gb": "4.0",
         "wc_rank": "12"
       }
     ]
