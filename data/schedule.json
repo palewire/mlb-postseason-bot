@@ -602,14 +602,14 @@
   {
     "boxscore": "preview",
     "cli": "",
-    "date": "2022-05-06 00:00:00",
-    "date_game": "Friday, May 6",
+    "date": "2022-05-07 00:00:00",
+    "date_game": "Saturday, May 7",
     "day_or_night": "",
     "homeORvis": "",
     "opp_ID": "LAD",
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
-    "starttime": "2:20 pm",
+    "starttime": "1:05 pm",
     "team_ID": "CHC",
     "team_game": "25"
   },
@@ -623,7 +623,7 @@
     "opp_ID": "LAD",
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
-    "starttime": "2:20 pm",
+    "starttime": "7:40 pm",
     "team_ID": "CHC",
     "team_game": "26"
   },
