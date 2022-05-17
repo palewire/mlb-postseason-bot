@@ -61,7 +61,7 @@ def schedule():
             d[cell.attrs['data-stat']] = cell.text
 
         # Parse the dates
-        d['date'] = dateparse.parse(d['date_game'] + " 2022")
+        d['date'] = dateparse.parse(d['date_game'].split("(")[0] + " 2022")
 
         # Add them to the list
         row_list.append(d)
