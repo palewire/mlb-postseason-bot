@@ -94,15 +94,15 @@
       {
         "div_rank": "2",
         "elim_num": "121",
-        "gb": "5.5",
+        "gb": "5.0",
         "l": 15,
         "league_rank": "4",
         "name": "Tampa Bay Rays",
         "sport_rank": "9",
         "team_id": 139,
-        "w": 22,
+        "w": 23,
         "wc_elim_num": "-",
-        "wc_gb": "+2.0",
+        "wc_gb": "+2.5",
         "wc_rank": "2"
       },
       {
@@ -210,16 +210,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "118",
-        "gb": "8.0",
-        "l": 24,
+        "elim_num": "117",
+        "gb": "8.5",
+        "l": 25,
         "league_rank": "15",
         "name": "Detroit Tigers",
         "sport_rank": "28",
         "team_id": 116,
         "w": 13,
-        "wc_elim_num": "119",
-        "wc_gb": "7.0",
+        "wc_elim_num": "118",
+        "wc_gb": "7.5",
         "wc_rank": "12"
       }
     ]
