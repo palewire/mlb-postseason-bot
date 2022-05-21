@@ -285,16 +285,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "118",
-        "gb": "7.5",
-        "l": 19,
+        "elim_num": "117",
+        "gb": "8.0",
+        "l": 20,
         "league_rank": "8",
         "name": "Colorado Rockies",
         "sport_rank": "15",
         "team_id": 115,
         "w": 18,
-        "wc_elim_num": "123",
-        "wc_gb": "2.0",
+        "wc_elim_num": "122",
+        "wc_gb": "2.5",
         "wc_rank": "5"
       }
     ]
@@ -311,15 +311,15 @@
         "name": "New York Mets",
         "sport_rank": "3",
         "team_id": 121,
-        "w": 26,
+        "w": 27,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "116",
-        "gb": "7.5",
+        "elim_num": "115",
+        "gb": "8.0",
         "l": 21,
         "league_rank": "9",
         "name": "Atlanta Braves",
@@ -332,8 +332,8 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "116",
-        "gb": "7.5",
+        "elim_num": "115",
+        "gb": "8.0",
         "l": 21,
         "league_rank": "10",
         "name": "Philadelphia Phillies",
@@ -346,8 +346,8 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "116",
-        "gb": "8.0",
+        "elim_num": "115",
+        "gb": "8.5",
         "l": 21,
         "league_rank": "11",
         "name": "Miami Marlins",
@@ -360,8 +360,8 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "110",
-        "gb": "13.0",
+        "elim_num": "109",
+        "gb": "13.5",
         "l": 27,
         "league_rank": "14",
         "name": "Washington Nationals",
