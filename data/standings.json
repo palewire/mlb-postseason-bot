@@ -65,7 +65,7 @@
         "l": 25,
         "league_rank": "12",
         "name": "Oakland Athletics",
-        "sport_rank": "24",
+        "sport_rank": "23",
         "team_id": 133,
         "w": 17,
         "wc_elim_num": "116",
@@ -252,7 +252,7 @@
         "team_id": 135,
         "w": 26,
         "wc_elim_num": "-",
-        "wc_gb": "+4.0",
+        "wc_gb": "+3.5",
         "wc_rank": "1"
       },
       {
@@ -266,7 +266,7 @@
         "team_id": 137,
         "w": 22,
         "wc_elim_num": "-",
-        "wc_gb": "+0.5",
+        "wc_gb": "-",
         "wc_rank": "2"
       },
       {
@@ -280,7 +280,7 @@
         "team_id": 109,
         "w": 21,
         "wc_elim_num": "120",
-        "wc_gb": "2.0",
+        "wc_gb": "2.5",
         "wc_rank": "4"
       },
       {
@@ -294,7 +294,7 @@
         "team_id": 115,
         "w": 19,
         "wc_elim_num": "121",
-        "wc_gb": "2.5",
+        "wc_gb": "3.0",
         "wc_rank": "5"
       }
     ]
@@ -327,7 +327,7 @@
         "team_id": 144,
         "w": 19,
         "wc_elim_num": "120",
-        "wc_gb": "3.0",
+        "wc_gb": "3.5",
         "wc_rank": "6"
       },
       {
@@ -341,7 +341,7 @@
         "team_id": 143,
         "w": 18,
         "wc_elim_num": "119",
-        "wc_gb": "4.0",
+        "wc_gb": "4.5",
         "wc_rank": "7"
       },
       {
@@ -355,7 +355,7 @@
         "team_id": 146,
         "w": 17,
         "wc_elim_num": "119",
-        "wc_gb": "4.5",
+        "wc_gb": "5.0",
         "wc_rank": "8"
       },
       {
@@ -369,7 +369,7 @@
         "team_id": 120,
         "w": 13,
         "wc_elim_num": "113",
-        "wc_gb": "9.5",
+        "wc_gb": "10.0",
         "wc_rank": "11"
       }
     ]
@@ -394,29 +394,29 @@
       {
         "div_rank": "2",
         "elim_num": "119",
-        "gb": "4.0",
+        "gb": "3.5",
         "l": 18,
         "league_rank": "6",
         "name": "St. Louis Cardinals",
         "sport_rank": "11",
         "team_id": 138,
-        "w": 22,
+        "w": 23,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "3"
       },
       {
         "div_rank": "3",
-        "elim_num": "114",
-        "gb": "9.5",
-        "l": 23,
+        "elim_num": "113",
+        "gb": "10.0",
+        "l": 24,
         "league_rank": "12",
         "name": "Pittsburgh Pirates",
-        "sport_rank": "23",
+        "sport_rank": "24",
         "team_id": 134,
         "w": 16,
-        "wc_elim_num": "118",
-        "wc_gb": "5.5",
+        "wc_elim_num": "117",
+        "wc_gb": "6.5",
         "wc_rank": "9"
       },
       {
@@ -430,7 +430,7 @@
         "team_id": 112,
         "w": 15,
         "wc_elim_num": "117",
-        "wc_gb": "6.5",
+        "wc_gb": "7.0",
         "wc_rank": "10"
       },
       {
@@ -444,7 +444,7 @@
         "team_id": 113,
         "w": 11,
         "wc_elim_num": "113",
-        "wc_gb": "10.5",
+        "wc_gb": "11.0",
         "wc_rank": "12"
       }
     ]
