@@ -156,7 +156,7 @@
         "div_rank": "1",
         "elim_num": "-",
         "gb": "-",
-        "l": 18,
+        "l": 19,
         "league_rank": "3",
         "name": "Minnesota Twins",
         "sport_rank": "7",
@@ -169,7 +169,7 @@
       {
         "div_rank": "2",
         "elim_num": "113",
-        "gb": "5.0",
+        "gb": "4.5",
         "l": 22,
         "league_rank": "7",
         "name": "Chicago White Sox",
@@ -183,7 +183,7 @@
       {
         "div_rank": "3",
         "elim_num": "112",
-        "gb": "7.5",
+        "gb": "7.0",
         "l": 23,
         "league_rank": "10",
         "name": "Cleveland Guardians",
@@ -197,7 +197,7 @@
       {
         "div_rank": "4",
         "elim_num": "107",
-        "gb": "11.0",
+        "gb": "10.5",
         "l": 28,
         "league_rank": "14",
         "name": "Detroit Tigers",
@@ -211,15 +211,15 @@
       {
         "div_rank": "5",
         "elim_num": "106",
-        "gb": "12.0",
+        "gb": "11.0",
         "l": 29,
         "league_rank": "15",
         "name": "Kansas City Royals",
         "sport_rank": "29",
         "team_id": 118,
-        "w": 15,
+        "w": 16,
         "wc_elim_num": "109",
-        "wc_gb": "9.5",
+        "wc_gb": "9.0",
         "wc_rank": "12"
       }
     ]
