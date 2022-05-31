@@ -51,7 +51,7 @@
         "l": 28,
         "league_rank": "12",
         "name": "Seattle Mariners",
-        "sport_rank": "22",
+        "sport_rank": "23",
         "team_id": 136,
         "w": 20,
         "wc_elim_num": "108",
@@ -140,7 +140,7 @@
         "l": 29,
         "league_rank": "11",
         "name": "Baltimore Orioles",
-        "sport_rank": "21",
+        "sport_rank": "22",
         "team_id": 110,
         "w": 21,
         "wc_elim_num": "107",
@@ -231,7 +231,7 @@
         "div_rank": "1",
         "elim_num": "-",
         "gb": "-",
-        "l": 14,
+        "l": 15,
         "league_rank": "1",
         "name": "Los Angeles Dodgers",
         "sport_rank": "1",
@@ -244,7 +244,7 @@
       {
         "div_rank": "2",
         "elim_num": "112",
-        "gb": "3.5",
+        "gb": "3.0",
         "l": 18,
         "league_rank": "4",
         "name": "San Diego Padres",
@@ -258,7 +258,7 @@
       {
         "div_rank": "3",
         "elim_num": "109",
-        "gb": "7.0",
+        "gb": "6.5",
         "l": 21,
         "league_rank": "6",
         "name": "San Francisco Giants",
@@ -272,7 +272,7 @@
       {
         "div_rank": "4",
         "elim_num": "104",
-        "gb": "10.5",
+        "gb": "10.0",
         "l": 26,
         "league_rank": "7",
         "name": "Arizona Diamondbacks",
@@ -286,7 +286,7 @@
       {
         "div_rank": "5",
         "elim_num": "104",
-        "gb": "11.5",
+        "gb": "11.0",
         "l": 26,
         "league_rank": "9",
         "name": "Colorado Rockies",
@@ -349,14 +349,14 @@
         "elim_num": "103",
         "gb": "12.0",
         "l": 27,
-        "league_rank": "11",
+        "league_rank": "12",
         "name": "Miami Marlins",
-        "sport_rank": "23",
+        "sport_rank": "24",
         "team_id": 146,
         "w": 19,
         "wc_elim_num": "110",
         "wc_gb": "6.5",
-        "wc_rank": "8"
+        "wc_rank": "9"
       },
       {
         "div_rank": "5",
@@ -408,16 +408,16 @@
       {
         "div_rank": "3",
         "elim_num": "104",
-        "gb": "11.0",
+        "gb": "10.5",
         "l": 27,
-        "league_rank": "12",
+        "league_rank": "11",
         "name": "Pittsburgh Pirates",
-        "sport_rank": "24",
+        "sport_rank": "21",
         "team_id": 134,
-        "w": 19,
+        "w": 20,
         "wc_elim_num": "110",
-        "wc_gb": "6.5",
-        "wc_rank": "9"
+        "wc_gb": "6.0",
+        "wc_rank": "8"
       },
       {
         "div_rank": "4",
