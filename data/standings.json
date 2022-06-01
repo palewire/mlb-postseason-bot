@@ -183,15 +183,15 @@
       {
         "div_rank": "3",
         "elim_num": "109",
-        "gb": "6.0",
+        "gb": "5.5",
         "l": 24,
         "league_rank": "9",
         "name": "Cleveland Guardians",
         "sport_rank": "16",
         "team_id": 114,
-        "w": 21,
+        "w": 22,
         "wc_elim_num": "112",
-        "wc_gb": "3.5",
+        "wc_gb": "3.0",
         "wc_rank": "6"
       },
       {
@@ -210,16 +210,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "101",
-        "gb": "12.5",
-        "l": 32,
+        "elim_num": "100",
+        "gb": "13.0",
+        "l": 33,
         "league_rank": "15",
         "name": "Kansas City Royals",
         "sport_rank": "30",
         "team_id": 118,
         "w": 16,
-        "wc_elim_num": "104",
-        "wc_gb": "10.0",
+        "wc_elim_num": "103",
+        "wc_gb": "10.5",
         "wc_rank": "12"
       }
     ]
@@ -243,16 +243,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "111",
-        "gb": "3.0",
-        "l": 19,
+        "elim_num": "110",
+        "gb": "3.5",
+        "l": 20,
         "league_rank": "4",
         "name": "San Diego Padres",
         "sport_rank": "6",
         "team_id": 135,
         "w": 30,
         "wc_elim_num": "-",
-        "wc_gb": "+2.5",
+        "wc_gb": "+2.0",
         "wc_rank": "1"
       },
       {
@@ -394,15 +394,15 @@
       {
         "div_rank": "2",
         "elim_num": "110",
-        "gb": "3.0",
+        "gb": "2.5",
         "l": 21,
         "league_rank": "5",
         "name": "St. Louis Cardinals",
         "sport_rank": "9",
         "team_id": 138,
-        "w": 28,
+        "w": 29,
         "wc_elim_num": "-",
-        "wc_gb": "+0.5",
+        "wc_gb": "+1.0",
         "wc_rank": "2"
       },
       {
