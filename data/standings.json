@@ -183,15 +183,15 @@
       {
         "div_rank": "3",
         "elim_num": "109",
-        "gb": "7.0",
+        "gb": "6.5",
         "l": 24,
         "league_rank": "10",
         "name": "Cleveland Guardians",
-        "sport_rank": "19",
+        "sport_rank": "18",
         "team_id": 114,
-        "w": 20,
+        "w": 21,
         "wc_elim_num": "112",
-        "wc_gb": "4.5",
+        "wc_gb": "4.0",
         "wc_rank": "7"
       },
       {
@@ -210,16 +210,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "102",
-        "gb": "12.5",
-        "l": 31,
+        "elim_num": "101",
+        "gb": "13.0",
+        "l": 32,
         "league_rank": "15",
         "name": "Kansas City Royals",
         "sport_rank": "30",
         "team_id": 118,
         "w": 16,
-        "wc_elim_num": "105",
-        "wc_gb": "10.0",
+        "wc_elim_num": "104",
+        "wc_gb": "10.5",
         "wc_rank": "12"
       }
     ]
@@ -290,7 +290,7 @@
         "l": 26,
         "league_rank": "9",
         "name": "Colorado Rockies",
-        "sport_rank": "18",
+        "sport_rank": "19",
         "team_id": 115,
         "w": 22,
         "wc_elim_num": "111",
