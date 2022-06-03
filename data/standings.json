@@ -51,7 +51,7 @@
         "l": 29,
         "league_rank": "11",
         "name": "Seattle Mariners",
-        "sport_rank": "23",
+        "sport_rank": "22",
         "team_id": 136,
         "w": 22,
         "wc_elim_num": "107",
@@ -335,28 +335,28 @@
         "elim_num": "99",
         "gb": "12.0",
         "l": 29,
-        "league_rank": "12",
+        "league_rank": "11",
         "name": "Philadelphia Phillies",
-        "sport_rank": "22",
+        "sport_rank": "21",
         "team_id": 143,
         "w": 22,
         "wc_elim_num": "107",
         "wc_gb": "5.5",
-        "wc_rank": "9"
+        "wc_rank": "8"
       },
       {
         "div_rank": "4",
         "elim_num": "100",
         "gb": "12.0",
         "l": 28,
-        "league_rank": "13",
+        "league_rank": "12",
         "name": "Miami Marlins",
-        "sport_rank": "24",
+        "sport_rank": "23",
         "team_id": 146,
         "w": 21,
         "wc_elim_num": "108",
         "wc_gb": "5.5",
-        "wc_rank": "10"
+        "wc_rank": "9"
       },
       {
         "div_rank": "5",
@@ -394,15 +394,15 @@
       {
         "div_rank": "2",
         "elim_num": "108",
-        "gb": "3.0",
+        "gb": "2.5",
         "l": 22,
         "league_rank": "5",
         "name": "St. Louis Cardinals",
         "sport_rank": "9",
         "team_id": 138,
-        "w": 29,
+        "w": 30,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+2.0",
         "wc_rank": "2"
       },
       {
@@ -421,17 +421,17 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "101",
-        "gb": "10.0",
-        "l": 29,
-        "league_rank": "11",
+        "elim_num": "100",
+        "gb": "10.5",
+        "l": 30,
+        "league_rank": "13",
         "name": "Chicago Cubs",
-        "sport_rank": "21",
+        "sport_rank": "24",
         "team_id": 112,
         "w": 22,
-        "wc_elim_num": "107",
-        "wc_gb": "5.5",
-        "wc_rank": "8"
+        "wc_elim_num": "106",
+        "wc_gb": "6.0",
+        "wc_rank": "10"
       },
       {
         "div_rank": "5",
