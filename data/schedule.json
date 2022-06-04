@@ -1275,18 +1275,29 @@
     "winning_pitcher": "Thompson"
   },
   {
-    "boxscore": "preview",
-    "cli": "",
+    "R": "5",
+    "RA": "14",
+    "attendance": "32,482",
+    "boxscore": "boxscore",
+    "cli": ".51",
     "date": "2022-06-03 00:00:00",
     "date_game": "Friday, Jun 3",
-    "day_or_night": "",
+    "day_or_night": "D",
+    "extra_innings": "",
+    "games_back": " 10.0",
     "homeORvis": "",
+    "losing_pitcher": "Stroman",
     "opp_ID": "STL",
-    "preview": "Game Preview, and Matchups",
+    "rank": "4",
     "reschedule": "",
-    "starttime": "2:20 pm",
+    "saving_pitcher": "Thompson",
     "team_ID": "CHC",
-    "team_game": "52"
+    "team_game": "52",
+    "time_of_game": "3:14",
+    "win_loss_record": "22-30",
+    "win_loss_result": "L",
+    "win_loss_streak": "-",
+    "winning_pitcher": "Mikolas"
   },
   {
     "boxscore": "preview",
@@ -2824,7 +2835,7 @@
     "opp_ID": "CIN",
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
-    "starttime": "TBD",
+    "starttime": "4:10 pm",
     "team_ID": "CHC",
     "team_game": "162"
   }
