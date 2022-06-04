@@ -60,16 +60,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "96",
-        "gb": "14.5",
-        "l": 33,
+        "elim_num": "95",
+        "gb": "15.0",
+        "l": 34,
         "league_rank": "14",
         "name": "Oakland Athletics",
         "sport_rank": "27",
         "team_id": 133,
         "w": 20,
-        "wc_elim_num": "103",
-        "wc_gb": "7.0",
+        "wc_elim_num": "102",
+        "wc_gb": "7.5",
         "wc_rank": "11"
       }
     ]
@@ -122,15 +122,15 @@
       {
         "div_rank": "4",
         "elim_num": "99",
-        "gb": "12.5",
+        "gb": "12.0",
         "l": 27,
         "league_rank": "8",
         "name": "Boston Red Sox",
         "sport_rank": "16",
         "team_id": 111,
-        "w": 24,
+        "w": 25,
         "wc_elim_num": "109",
-        "wc_gb": "2.0",
+        "wc_gb": "1.5",
         "wc_rank": "5"
       },
       {
@@ -173,7 +173,7 @@
         "l": 24,
         "league_rank": "7",
         "name": "Cleveland Guardians",
-        "sport_rank": "14",
+        "sport_rank": "15",
         "team_id": 114,
         "w": 23,
         "wc_elim_num": "112",
@@ -285,16 +285,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "101",
-        "gb": "11.0",
-        "l": 28,
+        "elim_num": "100",
+        "gb": "11.5",
+        "l": 29,
         "league_rank": "9",
         "name": "Colorado Rockies",
         "sport_rank": "19",
         "team_id": 115,
         "w": 23,
-        "wc_elim_num": "107",
-        "wc_gb": "5.0",
+        "wc_elim_num": "106",
+        "wc_gb": "5.5",
         "wc_rank": "6"
       }
     ]
@@ -319,15 +319,15 @@
       {
         "div_rank": "2",
         "elim_num": "101",
-        "gb": "9.5",
+        "gb": "9.0",
         "l": 27,
         "league_rank": "8",
         "name": "Atlanta Braves",
-        "sport_rank": "15",
+        "sport_rank": "14",
         "team_id": 144,
-        "w": 25,
+        "w": 26,
         "wc_elim_num": "108",
-        "wc_gb": "3.5",
+        "wc_gb": "3.0",
         "wc_rank": "5"
       },
       {
