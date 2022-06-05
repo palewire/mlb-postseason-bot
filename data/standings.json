@@ -23,7 +23,7 @@
         "l": 27,
         "league_rank": "6",
         "name": "Los Angeles Angels",
-        "sport_rank": "12",
+        "sport_rank": "13",
         "team_id": 108,
         "w": 27,
         "wc_elim_num": "-",
@@ -285,16 +285,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "99",
-        "gb": "12.0",
-        "l": 29,
+        "elim_num": "98",
+        "gb": "12.5",
+        "l": 30,
         "league_rank": "11",
         "name": "Colorado Rockies",
         "sport_rank": "21",
         "team_id": 115,
         "w": 23,
-        "wc_elim_num": "106",
-        "wc_gb": "5.0",
+        "wc_elim_num": "105",
+        "wc_gb": "5.5",
         "wc_rank": "8"
       }
     ]
@@ -319,15 +319,15 @@
       {
         "div_rank": "2",
         "elim_num": "101",
-        "gb": "8.5",
+        "gb": "8.0",
         "l": 27,
         "league_rank": "7",
         "name": "Atlanta Braves",
-        "sport_rank": "13",
+        "sport_rank": "12",
         "team_id": 144,
-        "w": 26,
+        "w": 27,
         "wc_elim_num": "108",
-        "wc_gb": "2.5",
+        "wc_gb": "2.0",
         "wc_rank": "4"
       },
       {
