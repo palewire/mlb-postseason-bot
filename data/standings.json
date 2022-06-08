@@ -93,16 +93,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "101",
-        "gb": "7.0",
-        "l": 22,
+        "elim_num": "100",
+        "gb": "7.5",
+        "l": 23,
         "league_rank": "3",
         "name": "Toronto Blue Jays",
         "sport_rank": "6",
         "team_id": 141,
         "w": 33,
         "wc_elim_num": "-",
-        "wc_gb": "+4.5",
+        "wc_gb": "+4.0",
         "wc_rank": "1"
       },
       {
@@ -211,15 +211,15 @@
       {
         "div_rank": "5",
         "elim_num": "94",
-        "gb": "13.5",
+        "gb": "13.0",
         "l": 37,
         "league_rank": "15",
         "name": "Kansas City Royals",
         "sport_rank": "30",
         "team_id": 118,
-        "w": 17,
+        "w": 18,
         "wc_elim_num": "97",
-        "wc_gb": "11.0",
+        "wc_gb": "10.5",
         "wc_rank": "12"
       }
     ]
