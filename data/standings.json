@@ -37,7 +37,7 @@
         "l": 30,
         "league_rank": "10",
         "name": "Texas Rangers",
-        "sport_rank": "18",
+        "sport_rank": "19",
         "team_id": 140,
         "w": 26,
         "wc_elim_num": "104",
@@ -272,15 +272,15 @@
       {
         "div_rank": "4",
         "elim_num": "96",
-        "gb": "10.5",
+        "gb": "10.0",
         "l": 31,
         "league_rank": "9",
         "name": "Arizona Diamondbacks",
-        "sport_rank": "19",
+        "sport_rank": "18",
         "team_id": 109,
-        "w": 26,
+        "w": 27,
         "wc_elim_num": "103",
-        "wc_gb": "4.5",
+        "wc_gb": "4.0",
         "wc_rank": "6"
       },
       {
@@ -363,14 +363,14 @@
         "elim_num": "88",
         "gb": "17.0",
         "l": 37,
-        "league_rank": "15",
+        "league_rank": "14",
         "name": "Washington Nationals",
-        "sport_rank": "28",
+        "sport_rank": "27",
         "team_id": 120,
         "w": 21,
         "wc_elim_num": "97",
         "wc_gb": "10.0",
-        "wc_rank": "12"
+        "wc_rank": "11"
       }
     ]
   },
@@ -435,17 +435,17 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "95",
-        "gb": "11.5",
-        "l": 35,
-        "league_rank": "14",
+        "elim_num": "94",
+        "gb": "12.0",
+        "l": 36,
+        "league_rank": "15",
         "name": "Cincinnati Reds",
-        "sport_rank": "27",
+        "sport_rank": "28",
         "team_id": 113,
         "w": 20,
-        "wc_elim_num": "99",
-        "wc_gb": "9.5",
-        "wc_rank": "11"
+        "wc_elim_num": "98",
+        "wc_gb": "10.0",
+        "wc_rank": "12"
       }
     ]
   }
