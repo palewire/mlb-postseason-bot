@@ -94,15 +94,15 @@
       {
         "div_rank": "2",
         "elim_num": "100",
-        "gb": "7.0",
+        "gb": "6.5",
         "l": 23,
         "league_rank": "3",
         "name": "Tampa Bay Rays",
         "sport_rank": "6",
         "team_id": 139,
-        "w": 33,
+        "w": 34,
         "wc_elim_num": "-",
-        "wc_gb": "+3.5",
+        "wc_gb": "+4.0",
         "wc_rank": "1"
       },
       {
@@ -272,15 +272,15 @@
       {
         "div_rank": "4",
         "elim_num": "96",
-        "gb": "10.0",
+        "gb": "9.5",
         "l": 31,
         "league_rank": "9",
         "name": "Arizona Diamondbacks",
         "sport_rank": "17",
         "team_id": 109,
-        "w": 27,
+        "w": 28,
         "wc_elim_num": "102",
-        "wc_gb": "4.5",
+        "wc_gb": "4.0",
         "wc_rank": "6"
       },
       {
@@ -393,16 +393,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "105",
-        "gb": "0.5",
-        "l": 25,
+        "elim_num": "104",
+        "gb": "1.0",
+        "l": 26,
         "league_rank": "5",
         "name": "St. Louis Cardinals",
         "sport_rank": "10",
         "team_id": 138,
         "w": 32,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+0.5",
         "wc_rank": "2"
       },
       {
@@ -435,16 +435,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "94",
-        "gb": "12.0",
-        "l": 36,
+        "elim_num": "93",
+        "gb": "12.5",
+        "l": 37,
         "league_rank": "15",
         "name": "Cincinnati Reds",
         "sport_rank": "28",
         "team_id": 113,
         "w": 20,
-        "wc_elim_num": "97",
-        "wc_gb": "10.5",
+        "wc_elim_num": "96",
+        "wc_gb": "11.0",
         "wc_rank": "12"
       }
     ]

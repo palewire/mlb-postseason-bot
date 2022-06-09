@@ -1402,20 +1402,6 @@
   {
     "boxscore": "preview",
     "cli": "",
-    "date": "2022-06-08 00:00:00",
-    "date_game": "Wednesday, Jun 8",
-    "day_or_night": "",
-    "homeORvis": "@",
-    "opp_ID": "BAL",
-    "preview": "Game Preview, and Matchups",
-    "reschedule": "",
-    "starttime": "7:05 pm",
-    "team_ID": "CHC",
-    "team_game": "57"
-  },
-  {
-    "boxscore": "preview",
-    "cli": "",
     "date": "2022-06-10 00:00:00",
     "date_game": "Friday, Jun 10",
     "day_or_night": "",
@@ -1425,7 +1411,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "CHC",
-    "team_game": "58"
+    "team_game": "57"
   },
   {
     "boxscore": "preview",
@@ -1439,7 +1425,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "CHC",
-    "team_game": "59"
+    "team_game": "58"
   },
   {
     "boxscore": "preview",
@@ -1453,7 +1439,7 @@
     "reschedule": "",
     "starttime": "1:35 pm",
     "team_ID": "CHC",
-    "team_game": "60"
+    "team_game": "59"
   },
   {
     "boxscore": "preview",
@@ -1467,7 +1453,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "61"
+    "team_game": "60"
   },
   {
     "boxscore": "preview",
@@ -1481,7 +1467,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "62"
+    "team_game": "61"
   },
   {
     "boxscore": "preview",
@@ -1495,7 +1481,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "63"
+    "team_game": "62"
   },
   {
     "boxscore": "preview",
@@ -1509,7 +1495,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "64"
+    "team_game": "63"
   },
   {
     "boxscore": "preview",
@@ -1523,7 +1509,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "65"
+    "team_game": "64"
   },
   {
     "boxscore": "preview",
@@ -1537,7 +1523,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "66"
+    "team_game": "65"
   },
   {
     "boxscore": "preview",
@@ -1551,7 +1537,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "67"
+    "team_game": "66"
   },
   {
     "boxscore": "preview",
@@ -1565,7 +1551,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "CHC",
-    "team_game": "68"
+    "team_game": "67"
   },
   {
     "boxscore": "preview",
@@ -1579,7 +1565,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "CHC",
-    "team_game": "69"
+    "team_game": "68"
   },
   {
     "boxscore": "preview",
@@ -1593,7 +1579,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "CHC",
-    "team_game": "70"
+    "team_game": "69"
   },
   {
     "boxscore": "preview",
@@ -1607,7 +1593,7 @@
     "reschedule": "",
     "starttime": "12:35 pm",
     "team_ID": "CHC",
-    "team_game": "71"
+    "team_game": "70"
   },
   {
     "boxscore": "preview",
@@ -1621,7 +1607,7 @@
     "reschedule": "",
     "starttime": "8:15 pm",
     "team_ID": "CHC",
-    "team_game": "72"
+    "team_game": "71"
   },
   {
     "boxscore": "preview",
@@ -1635,7 +1621,7 @@
     "reschedule": "",
     "starttime": "2:15 pm",
     "team_ID": "CHC",
-    "team_game": "73"
+    "team_game": "72"
   },
   {
     "boxscore": "preview",
@@ -1649,7 +1635,7 @@
     "reschedule": "",
     "starttime": "2:15 pm",
     "team_ID": "CHC",
-    "team_game": "74"
+    "team_game": "73"
   },
   {
     "boxscore": "preview",
@@ -1663,7 +1649,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "75"
+    "team_game": "74"
   },
   {
     "boxscore": "preview",
@@ -1677,7 +1663,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "76"
+    "team_game": "75"
   },
   {
     "boxscore": "preview",
@@ -1691,7 +1677,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "77"
+    "team_game": "76"
   },
   {
     "boxscore": "preview",
@@ -1705,7 +1691,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "78"
+    "team_game": "77"
   },
   {
     "boxscore": "preview",
@@ -1719,7 +1705,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "CHC",
-    "team_game": "79"
+    "team_game": "78"
   },
   {
     "boxscore": "preview",
@@ -1733,7 +1719,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "80"
+    "team_game": "79"
   },
   {
     "boxscore": "preview",
@@ -1747,7 +1733,7 @@
     "reschedule": "",
     "starttime": "4:10 pm",
     "team_ID": "CHC",
-    "team_game": "81"
+    "team_game": "80"
   },
   {
     "boxscore": "preview",
@@ -1761,7 +1747,7 @@
     "reschedule": "",
     "starttime": "8:10 pm",
     "team_ID": "CHC",
-    "team_game": "82"
+    "team_game": "81"
   },
   {
     "boxscore": "preview",
@@ -1775,7 +1761,7 @@
     "reschedule": "",
     "starttime": "2:10 pm",
     "team_ID": "CHC",
-    "team_game": "83"
+    "team_game": "82"
   },
   {
     "boxscore": "preview",
@@ -1789,7 +1775,7 @@
     "reschedule": "",
     "starttime": "10:10 pm",
     "team_ID": "CHC",
-    "team_game": "84"
+    "team_game": "83"
   },
   {
     "boxscore": "preview",
@@ -1803,7 +1789,7 @@
     "reschedule": "",
     "starttime": "10:10 pm",
     "team_ID": "CHC",
-    "team_game": "85"
+    "team_game": "84"
   },
   {
     "boxscore": "preview",
@@ -1817,7 +1803,7 @@
     "reschedule": "",
     "starttime": "10:10 pm",
     "team_ID": "CHC",
-    "team_game": "86"
+    "team_game": "85"
   },
   {
     "boxscore": "preview",
@@ -1831,7 +1817,7 @@
     "reschedule": "",
     "starttime": "4:10 pm",
     "team_ID": "CHC",
-    "team_game": "87"
+    "team_game": "86"
   },
   {
     "boxscore": "preview",
@@ -1845,7 +1831,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "88"
+    "team_game": "87"
   },
   {
     "boxscore": "preview",
@@ -1859,7 +1845,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "89"
+    "team_game": "88"
   },
   {
     "boxscore": "preview",
@@ -1873,7 +1859,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "90"
+    "team_game": "89"
   },
   {
     "boxscore": "preview",
@@ -1887,7 +1873,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "91"
+    "team_game": "90"
   },
   {
     "boxscore": "preview",
@@ -1901,7 +1887,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "92"
+    "team_game": "91"
   },
   {
     "boxscore": "preview",
@@ -1915,7 +1901,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "93"
+    "team_game": "92"
   },
   {
     "boxscore": "preview",
@@ -1929,7 +1915,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "CHC",
-    "team_game": "94"
+    "team_game": "93"
   },
   {
     "boxscore": "preview",
@@ -1943,7 +1929,7 @@
     "reschedule": "",
     "starttime": "6:05 pm",
     "team_ID": "CHC",
-    "team_game": "95"
+    "team_game": "94"
   },
   {
     "boxscore": "preview",
@@ -1957,7 +1943,7 @@
     "reschedule": "",
     "starttime": "12:05 pm",
     "team_ID": "CHC",
-    "team_game": "96"
+    "team_game": "95"
   },
   {
     "boxscore": "preview",
@@ -1971,7 +1957,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "97"
+    "team_game": "96"
   },
   {
     "boxscore": "preview",
@@ -1985,7 +1971,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "98"
+    "team_game": "97"
   },
   {
     "boxscore": "preview",
@@ -1999,7 +1985,7 @@
     "reschedule": "",
     "starttime": "9:45 pm",
     "team_ID": "CHC",
-    "team_game": "99"
+    "team_game": "98"
   },
   {
     "boxscore": "preview",
@@ -2013,7 +1999,7 @@
     "reschedule": "",
     "starttime": "10:15 pm",
     "team_ID": "CHC",
-    "team_game": "100"
+    "team_game": "99"
   },
   {
     "boxscore": "preview",
@@ -2027,7 +2013,7 @@
     "reschedule": "",
     "starttime": "9:05 pm",
     "team_ID": "CHC",
-    "team_game": "101"
+    "team_game": "100"
   },
   {
     "boxscore": "preview",
@@ -2041,7 +2027,7 @@
     "reschedule": "",
     "starttime": "4:05 pm",
     "team_ID": "CHC",
-    "team_game": "102"
+    "team_game": "101"
   },
   {
     "boxscore": "preview",
@@ -2055,7 +2041,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "CHC",
-    "team_game": "103"
+    "team_game": "102"
   },
   {
     "boxscore": "preview",
@@ -2069,7 +2055,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "CHC",
-    "team_game": "104"
+    "team_game": "103"
   },
   {
     "boxscore": "preview",
@@ -2083,7 +2069,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "CHC",
-    "team_game": "105"
+    "team_game": "104"
   },
   {
     "boxscore": "preview",
@@ -2097,7 +2083,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "106"
+    "team_game": "105"
   },
   {
     "boxscore": "preview",
@@ -2111,7 +2097,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "107"
+    "team_game": "106"
   },
   {
     "boxscore": "preview",
@@ -2125,7 +2111,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "108"
+    "team_game": "107"
   },
   {
     "boxscore": "preview",
@@ -2139,7 +2125,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "109"
+    "team_game": "108"
   },
   {
     "boxscore": "preview",
@@ -2153,7 +2139,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "CHC",
-    "team_game": "110"
+    "team_game": "109"
   },
   {
     "boxscore": "preview",
@@ -2167,7 +2153,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "CHC",
-    "team_game": "111"
+    "team_game": "110"
   },
   {
     "boxscore": "preview",
@@ -2181,7 +2167,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "CHC",
-    "team_game": "112"
+    "team_game": "111"
   },
   {
     "boxscore": "preview",
@@ -2195,7 +2181,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "CHC",
-    "team_game": "113"
+    "team_game": "112"
   },
   {
     "boxscore": "preview",
@@ -2209,7 +2195,7 @@
     "reschedule": "",
     "starttime": "1:40 pm",
     "team_ID": "CHC",
-    "team_game": "114"
+    "team_game": "113"
   },
   {
     "boxscore": "preview",
@@ -2223,7 +2209,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "CHC",
-    "team_game": "115"
+    "team_game": "114"
   },
   {
     "boxscore": "preview",
@@ -2237,7 +2223,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "CHC",
-    "team_game": "116"
+    "team_game": "115"
   },
   {
     "boxscore": "preview",
@@ -2250,6 +2236,20 @@
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
     "starttime": "1:05 pm",
+    "team_ID": "CHC",
+    "team_game": "116"
+  },
+  {
+    "boxscore": "preview",
+    "cli": "",
+    "date": "2022-08-18 00:00:00",
+    "date_game": "Thursday, Aug 18",
+    "day_or_night": "",
+    "homeORvis": "@",
+    "opp_ID": "BAL",
+    "preview": "Game Preview, and Matchups",
+    "reschedule": "",
+    "starttime": "3:05 pm",
     "team_ID": "CHC",
     "team_game": "117"
   },
