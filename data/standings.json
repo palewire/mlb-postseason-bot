@@ -63,14 +63,14 @@
         "elim_num": "88",
         "gb": "17.0",
         "l": 39,
-        "league_rank": "14",
+        "league_rank": "15",
         "name": "Oakland Athletics",
-        "sport_rank": "29",
+        "sport_rank": "30",
         "team_id": 133,
         "w": 20,
         "wc_elim_num": "94",
         "wc_gb": "11.0",
-        "wc_rank": "11"
+        "wc_rank": "12"
       }
     ]
   },
@@ -135,16 +135,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "89",
-        "gb": "17.0",
-        "l": 33,
+        "elim_num": "88",
+        "gb": "17.5",
+        "l": 34,
         "league_rank": "12",
         "name": "Baltimore Orioles",
         "sport_rank": "24",
         "team_id": 110,
         "w": 24,
-        "wc_elim_num": "100",
-        "wc_gb": "6.0",
+        "wc_elim_num": "99",
+        "wc_gb": "6.5",
         "wc_rank": "9"
       }
     ]
@@ -211,16 +211,16 @@
       {
         "div_rank": "5",
         "elim_num": "93",
-        "gb": "13.0",
+        "gb": "12.5",
         "l": 37,
-        "league_rank": "15",
+        "league_rank": "14",
         "name": "Kansas City Royals",
-        "sport_rank": "30",
+        "sport_rank": "29",
         "team_id": 118,
-        "w": 18,
+        "w": 19,
         "wc_elim_num": "96",
-        "wc_gb": "11.0",
-        "wc_rank": "12"
+        "wc_gb": "10.5",
+        "wc_rank": "11"
       }
     ]
   },
