@@ -60,16 +60,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "89",
-        "gb": "16.5",
-        "l": 38,
+        "elim_num": "88",
+        "gb": "17.0",
+        "l": 39,
         "league_rank": "14",
         "name": "Oakland Athletics",
         "sport_rank": "29",
         "team_id": 133,
         "w": 20,
-        "wc_elim_num": "95",
-        "wc_gb": "10.5",
+        "wc_elim_num": "94",
+        "wc_gb": "11.0",
         "wc_rank": "11"
       }
     ]
@@ -169,15 +169,15 @@
       {
         "div_rank": "2",
         "elim_num": "104",
-        "gb": "4.0",
+        "gb": "3.5",
         "l": 26,
         "league_rank": "7",
         "name": "Cleveland Guardians",
         "sport_rank": "14",
         "team_id": 114,
-        "w": 26,
+        "w": 27,
         "wc_elim_num": "107",
-        "wc_gb": "1.5",
+        "wc_gb": "1.0",
         "wc_rank": "4"
       },
       {
@@ -279,7 +279,7 @@
         "sport_rank": "16",
         "team_id": 109,
         "w": 28,
-        "wc_elim_num": "102",
+        "wc_elim_num": "101",
         "wc_gb": "3.5",
         "wc_rank": "6"
       },
@@ -288,14 +288,14 @@
         "elim_num": "94",
         "gb": "12.0",
         "l": 32,
-        "league_rank": "12",
+        "league_rank": "11",
         "name": "Colorado Rockies",
-        "sport_rank": "23",
+        "sport_rank": "22",
         "team_id": 115,
         "w": 25,
-        "wc_elim_num": "101",
+        "wc_elim_num": "100",
         "wc_gb": "5.5",
-        "wc_rank": "9"
+        "wc_rank": "8"
       }
     ]
   },
@@ -319,15 +319,15 @@
       {
         "div_rank": "2",
         "elim_num": "98",
-        "gb": "7.0",
+        "gb": "6.5",
         "l": 27,
         "league_rank": "7",
         "name": "Atlanta Braves",
         "sport_rank": "12",
         "team_id": 144,
-        "w": 30,
-        "wc_elim_num": "106",
-        "wc_gb": "0.5",
+        "w": 31,
+        "wc_elim_num": "-",
+        "wc_gb": "-",
         "wc_rank": "4"
       },
       {
@@ -340,36 +340,36 @@
         "sport_rank": "15",
         "team_id": 143,
         "w": 28,
-        "wc_elim_num": "104",
+        "wc_elim_num": "103",
         "wc_gb": "2.5",
         "wc_rank": "5"
       },
       {
         "div_rank": "4",
         "elim_num": "95",
-        "gb": "11.5",
+        "gb": "11.0",
         "l": 30,
         "league_rank": "10",
         "name": "Miami Marlins",
         "sport_rank": "21",
         "team_id": 146,
-        "w": 24,
-        "wc_elim_num": "103",
-        "wc_gb": "5.0",
+        "w": 25,
+        "wc_elim_num": "102",
+        "wc_gb": "4.5",
         "wc_rank": "7"
       },
       {
         "div_rank": "5",
-        "elim_num": "88",
-        "gb": "16.5",
-        "l": 37,
+        "elim_num": "87",
+        "gb": "17.0",
+        "l": 38,
         "league_rank": "14",
         "name": "Washington Nationals",
         "sport_rank": "27",
         "team_id": 120,
         "w": 21,
-        "wc_elim_num": "96",
-        "wc_gb": "10.0",
+        "wc_elim_num": "94",
+        "wc_gb": "10.5",
         "wc_rank": "11"
       }
     ]
@@ -407,17 +407,17 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "100",
-        "gb": "6.5",
-        "l": 30,
-        "league_rank": "11",
+        "elim_num": "99",
+        "gb": "7.0",
+        "l": 31,
+        "league_rank": "12",
         "name": "Pittsburgh Pirates",
-        "sport_rank": "22",
+        "sport_rank": "23",
         "team_id": 134,
         "w": 24,
-        "wc_elim_num": "103",
-        "wc_gb": "5.0",
-        "wc_rank": "8"
+        "wc_elim_num": "101",
+        "wc_gb": "5.5",
+        "wc_rank": "9"
       },
       {
         "div_rank": "4",
@@ -429,7 +429,7 @@
         "sport_rank": "25",
         "team_id": 112,
         "w": 23,
-        "wc_elim_num": "100",
+        "wc_elim_num": "99",
         "wc_gb": "7.0",
         "wc_rank": "10"
       },
@@ -443,7 +443,7 @@
         "sport_rank": "28",
         "team_id": 113,
         "w": 20,
-        "wc_elim_num": "96",
+        "wc_elim_num": "95",
         "wc_gb": "10.5",
         "wc_rank": "12"
       }
