@@ -19,16 +19,16 @@
       {
         "div_rank": "2",
         "elim_num": "96",
-        "gb": "9.5",
+        "gb": "9.0",
         "l": 31,
-        "league_rank": "9",
+        "league_rank": "8",
         "name": "Los Angeles Angels",
-        "sport_rank": "18",
+        "sport_rank": "17",
         "team_id": 108,
-        "w": 27,
+        "w": 28,
         "wc_elim_num": "102",
-        "wc_gb": "3.5",
-        "wc_rank": "6"
+        "wc_gb": "2.5",
+        "wc_rank": "5"
       },
       {
         "div_rank": "3",
@@ -41,7 +41,7 @@
         "team_id": 140,
         "w": 26,
         "wc_elim_num": "103",
-        "wc_gb": "3.5",
+        "wc_gb": "3.0",
         "wc_rank": "7"
       },
       {
@@ -55,7 +55,7 @@
         "team_id": 136,
         "w": 26,
         "wc_elim_num": "102",
-        "wc_gb": "4.0",
+        "wc_gb": "3.5",
         "wc_rank": "8"
       },
       {
@@ -69,7 +69,7 @@
         "team_id": 133,
         "w": 20,
         "wc_elim_num": "94",
-        "wc_gb": "11.0",
+        "wc_gb": "10.5",
         "wc_rank": "12"
       }
     ]
@@ -102,7 +102,7 @@
         "team_id": 139,
         "w": 34,
         "wc_elim_num": "-",
-        "wc_gb": "+4.0",
+        "wc_gb": "+4.5",
         "wc_rank": "1"
       },
       {
@@ -116,14 +116,14 @@
         "team_id": 141,
         "w": 33,
         "wc_elim_num": "-",
-        "wc_gb": "+3.5",
+        "wc_gb": "+4.0",
         "wc_rank": "2"
       },
       {
         "div_rank": "4",
-        "elim_num": "95",
-        "gb": "11.0",
-        "l": 27,
+        "elim_num": "94",
+        "gb": "11.5",
+        "l": 28,
         "league_rank": "6",
         "name": "Boston Red Sox",
         "sport_rank": "13",
@@ -144,7 +144,7 @@
         "team_id": 110,
         "w": 24,
         "wc_elim_num": "99",
-        "wc_gb": "6.5",
+        "wc_gb": "6.0",
         "wc_rank": "9"
       }
     ]
@@ -177,7 +177,7 @@
         "team_id": 114,
         "w": 27,
         "wc_elim_num": "107",
-        "wc_gb": "1.0",
+        "wc_gb": "0.5",
         "wc_rank": "4"
       },
       {
@@ -185,14 +185,14 @@
         "elim_num": "101",
         "gb": "5.0",
         "l": 29,
-        "league_rank": "8",
+        "league_rank": "9",
         "name": "Chicago White Sox",
-        "sport_rank": "17",
+        "sport_rank": "18",
         "team_id": 145,
         "w": 26,
         "wc_elim_num": "104",
-        "wc_gb": "3.0",
-        "wc_rank": "5"
+        "wc_gb": "2.5",
+        "wc_rank": "6"
       },
       {
         "div_rank": "4",
@@ -205,7 +205,7 @@
         "team_id": 116,
         "w": 23,
         "wc_elim_num": "100",
-        "wc_gb": "6.5",
+        "wc_gb": "6.0",
         "wc_rank": "10"
       },
       {
@@ -219,7 +219,7 @@
         "team_id": 118,
         "w": 19,
         "wc_elim_num": "96",
-        "wc_gb": "10.5",
+        "wc_gb": "10.0",
         "wc_rank": "11"
       }
     ]
