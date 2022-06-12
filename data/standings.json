@@ -60,16 +60,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "87",
-        "gb": "16.0",
-        "l": 40,
+        "elim_num": "86",
+        "gb": "16.5",
+        "l": 41,
         "league_rank": "15",
         "name": "Oakland Athletics",
-        "sport_rank": "29",
+        "sport_rank": "30",
         "team_id": 133,
         "w": 21,
-        "wc_elim_num": "92",
-        "wc_gb": "10.5",
+        "wc_elim_num": "91",
+        "wc_gb": "11.0",
         "wc_rank": "12"
       }
     ]
@@ -124,14 +124,14 @@
         "elim_num": "91",
         "gb": "12.5",
         "l": 29,
-        "league_rank": "6",
+        "league_rank": "7",
         "name": "Boston Red Sox",
-        "sport_rank": "13",
+        "sport_rank": "14",
         "team_id": 111,
         "w": 31,
         "wc_elim_num": "-",
         "wc_gb": "-",
-        "wc_rank": "3"
+        "wc_rank": "4"
       },
       {
         "div_rank": "5",
@@ -169,16 +169,16 @@
       {
         "div_rank": "2",
         "elim_num": "101",
-        "gb": "4.0",
+        "gb": "3.5",
         "l": 27,
-        "league_rank": "7",
+        "league_rank": "6",
         "name": "Cleveland Guardians",
-        "sport_rank": "14",
+        "sport_rank": "13",
         "team_id": 114,
-        "w": 28,
-        "wc_elim_num": "105",
-        "wc_gb": "0.5",
-        "wc_rank": "4"
+        "w": 29,
+        "wc_elim_num": "-",
+        "wc_gb": "-",
+        "wc_rank": "3"
       },
       {
         "div_rank": "3",
@@ -440,7 +440,7 @@
         "l": 39,
         "league_rank": "15",
         "name": "Cincinnati Reds",
-        "sport_rank": "30",
+        "sport_rank": "29",
         "team_id": 113,
         "w": 20,
         "wc_elim_num": "92",
