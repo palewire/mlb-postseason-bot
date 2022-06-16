@@ -93,16 +93,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "92",
-        "gb": "9.0",
-        "l": 25,
+        "elim_num": "91",
+        "gb": "9.5",
+        "l": 26,
         "league_rank": "3",
         "name": "Toronto Blue Jays",
         "sport_rank": "6",
         "team_id": 141,
         "w": 37,
         "wc_elim_num": "-",
-        "wc_gb": "+3.5",
+        "wc_gb": "+3.0",
         "wc_rank": "1"
       },
       {
@@ -136,15 +136,15 @@
       {
         "div_rank": "5",
         "elim_num": "80",
-        "gb": "20.0",
+        "gb": "19.5",
         "l": 37,
         "league_rank": "12",
         "name": "Baltimore Orioles",
         "sport_rank": "22",
         "team_id": 110,
-        "w": 27,
+        "w": 28,
         "wc_elim_num": "94",
-        "wc_gb": "7.5",
+        "wc_gb": "7.0",
         "wc_rank": "9"
       }
     ]
