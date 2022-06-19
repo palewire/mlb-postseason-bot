@@ -333,15 +333,15 @@
       {
         "div_rank": "3",
         "elim_num": "88",
-        "gb": "8.5",
+        "gb": "8.0",
         "l": 31,
         "league_rank": "8",
         "name": "Philadelphia Phillies",
         "sport_rank": "15",
         "team_id": 143,
-        "w": 35,
+        "w": 36,
         "wc_elim_num": "95",
-        "wc_gb": "2.0",
+        "wc_gb": "1.5",
         "wc_rank": "5"
       },
       {
@@ -360,16 +360,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "74",
-        "gb": "21.5",
-        "l": 45,
+        "elim_num": "73",
+        "gb": "22.0",
+        "l": 46,
         "league_rank": "15",
         "name": "Washington Nationals",
         "sport_rank": "29",
         "team_id": 120,
         "w": 23,
-        "wc_elim_num": "81",
-        "wc_gb": "15.0",
+        "wc_elim_num": "80",
+        "wc_gb": "15.5",
         "wc_rank": "12"
       }
     ]
