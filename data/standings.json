@@ -26,8 +26,8 @@
         "sport_rank": "17",
         "team_id": 140,
         "w": 31,
-        "wc_elim_num": "96",
-        "wc_gb": "4.5",
+        "wc_elim_num": "94",
+        "wc_gb": "4.0",
         "wc_rank": "6"
       },
       {
@@ -40,8 +40,8 @@
         "sport_rank": "19",
         "team_id": 108,
         "w": 31,
-        "wc_elim_num": "94",
-        "wc_gb": "5.5",
+        "wc_elim_num": "92",
+        "wc_gb": "5.0",
         "wc_rank": "7"
       },
       {
@@ -54,8 +54,8 @@
         "sport_rank": "21",
         "team_id": 136,
         "w": 29,
-        "wc_elim_num": "93",
-        "wc_gb": "7.0",
+        "wc_elim_num": "91",
+        "wc_gb": "6.5",
         "wc_rank": "8"
       },
       {
@@ -68,8 +68,8 @@
         "sport_rank": "30",
         "team_id": 133,
         "w": 22,
-        "wc_elim_num": "85",
-        "wc_gb": "14.5",
+        "wc_elim_num": "83",
+        "wc_gb": "14.0",
         "wc_rank": "12"
       }
     ]
@@ -102,7 +102,7 @@
         "team_id": 141,
         "w": 37,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+2.0",
         "wc_rank": "1"
       },
       {
@@ -116,7 +116,7 @@
         "team_id": 139,
         "w": 36,
         "wc_elim_num": "-",
-        "wc_gb": "+0.5",
+        "wc_gb": "+1.0",
         "wc_rank": "2"
       },
       {
@@ -129,8 +129,8 @@
         "sport_rank": "14",
         "team_id": 111,
         "w": 35,
-        "wc_elim_num": "100",
-        "wc_gb": "0.5",
+        "wc_elim_num": "-",
+        "wc_gb": "-",
         "wc_rank": "4"
       },
       {
@@ -143,8 +143,8 @@
         "sport_rank": "22",
         "team_id": 110,
         "w": 29,
-        "wc_elim_num": "92",
-        "wc_gb": "7.5",
+        "wc_elim_num": "90",
+        "wc_gb": "7.0",
         "wc_rank": "9"
       }
     ]
@@ -168,9 +168,9 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "99",
-        "gb": "1.0",
-        "l": 27,
+        "elim_num": "98",
+        "gb": "1.5",
+        "l": 28,
         "league_rank": "6",
         "name": "Cleveland Guardians",
         "sport_rank": "13",
@@ -190,8 +190,8 @@
         "sport_rank": "16",
         "team_id": 145,
         "w": 31,
-        "wc_elim_num": "98",
-        "wc_gb": "3.5",
+        "wc_elim_num": "96",
+        "wc_gb": "3.0",
         "wc_rank": "5"
       },
       {
@@ -204,8 +204,8 @@
         "sport_rank": "26",
         "team_id": 116,
         "w": 25,
-        "wc_elim_num": "90",
-        "wc_gb": "10.5",
+        "wc_elim_num": "88",
+        "wc_gb": "10.0",
         "wc_rank": "10"
       },
       {
@@ -218,8 +218,8 @@
         "sport_rank": "27",
         "team_id": 118,
         "w": 23,
-        "wc_elim_num": "89",
-        "wc_gb": "12.0",
+        "wc_elim_num": "87",
+        "wc_gb": "11.5",
         "wc_rank": "11"
       }
     ]
@@ -231,28 +231,28 @@
         "div_rank": "1",
         "elim_num": "-",
         "gb": "-",
-        "l": 25,
+        "l": 24,
         "league_rank": "2",
-        "name": "San Diego Padres",
+        "name": "Los Angeles Dodgers",
         "sport_rank": "3",
-        "team_id": 135,
-        "w": 41,
+        "team_id": 119,
+        "w": 40,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "98",
-        "gb": "0.5",
-        "l": 24,
+        "elim_num": "97",
+        "gb": "-",
+        "l": 25,
         "league_rank": "3",
-        "name": "Los Angeles Dodgers",
+        "name": "San Diego Padres",
         "sport_rank": "4",
-        "team_id": 119,
-        "w": 39,
+        "team_id": 135,
+        "w": 41,
         "wc_elim_num": "-",
-        "wc_gb": "+3.5",
+        "wc_gb": "+4.0",
         "wc_rank": "1"
       },
       {
