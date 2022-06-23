@@ -47,29 +47,29 @@
       {
         "div_rank": "4",
         "elim_num": "81",
-        "gb": "13.0",
+        "gb": "12.5",
         "l": 39,
-        "league_rank": "12",
+        "league_rank": "11",
         "name": "Seattle Mariners",
-        "sport_rank": "22",
+        "sport_rank": "21",
         "team_id": 136,
-        "w": 31,
+        "w": 32,
         "wc_elim_num": "85",
-        "wc_gb": "7.5",
-        "wc_rank": "9"
+        "wc_gb": "7.0",
+        "wc_rank": "8"
       },
       {
         "div_rank": "5",
-        "elim_num": "73",
-        "gb": "21.0",
-        "l": 47,
+        "elim_num": "72",
+        "gb": "21.5",
+        "l": 48,
         "league_rank": "15",
         "name": "Oakland Athletics",
         "sport_rank": "30",
         "team_id": 133,
         "w": 23,
-        "wc_elim_num": "77",
-        "wc_gb": "15.5",
+        "wc_elim_num": "76",
+        "wc_gb": "16.0",
         "wc_rank": "12"
       }
     ]
@@ -138,14 +138,14 @@
         "elim_num": "73",
         "gb": "20.5",
         "l": 39,
-        "league_rank": "11",
+        "league_rank": "12",
         "name": "Baltimore Orioles",
-        "sport_rank": "21",
+        "sport_rank": "22",
         "team_id": 110,
         "w": 31,
         "wc_elim_num": "85",
         "wc_gb": "7.5",
-        "wc_rank": "8"
+        "wc_rank": "9"
       }
     ]
   },
