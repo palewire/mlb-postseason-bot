@@ -243,16 +243,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "93",
-        "gb": "0.5",
-        "l": 27,
+        "elim_num": "92",
+        "gb": "1.0",
+        "l": 28,
         "league_rank": "3",
         "name": "San Diego Padres",
         "sport_rank": "5",
         "team_id": 135,
         "w": 44,
         "wc_elim_num": "-",
-        "wc_gb": "+4.5",
+        "wc_gb": "+4.0",
         "wc_rank": "1"
       },
       {
@@ -333,15 +333,15 @@
       {
         "div_rank": "3",
         "elim_num": "84",
-        "gb": "8.5",
+        "gb": "8.0",
         "l": 34,
         "league_rank": "8",
         "name": "Philadelphia Phillies",
         "sport_rank": "15",
         "team_id": 143,
-        "w": 36,
+        "w": 37,
         "wc_elim_num": "89",
-        "wc_gb": "3.0",
+        "wc_gb": "2.5",
         "wc_rank": "6"
       },
       {
