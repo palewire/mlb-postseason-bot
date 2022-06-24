@@ -49,14 +49,14 @@
         "elim_num": "81",
         "gb": "12.0",
         "l": 39,
-        "league_rank": "11",
+        "league_rank": "12",
         "name": "Seattle Mariners",
-        "sport_rank": "21",
+        "sport_rank": "22",
         "team_id": 136,
         "w": 32,
         "wc_elim_num": "85",
         "wc_gb": "7.0",
-        "wc_rank": "8"
+        "wc_rank": "9"
       },
       {
         "div_rank": "5",
@@ -136,16 +136,16 @@
       {
         "div_rank": "5",
         "elim_num": "72",
-        "gb": "21.0",
+        "gb": "20.5",
         "l": 39,
-        "league_rank": "12",
+        "league_rank": "11",
         "name": "Baltimore Orioles",
-        "sport_rank": "22",
+        "sport_rank": "21",
         "team_id": 110,
-        "w": 31,
+        "w": 32,
         "wc_elim_num": "85",
-        "wc_gb": "7.5",
-        "wc_rank": "9"
+        "wc_gb": "7.0",
+        "wc_rank": "8"
       }
     ]
   },
@@ -182,16 +182,16 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "90",
-        "gb": "4.0",
-        "l": 34,
+        "elim_num": "89",
+        "gb": "4.5",
+        "l": 35,
         "league_rank": "8",
         "name": "Chicago White Sox",
         "sport_rank": "16",
         "team_id": 145,
         "w": 33,
-        "wc_elim_num": "90",
-        "wc_gb": "4.0",
+        "wc_elim_num": "89",
+        "wc_gb": "4.5",
         "wc_rank": "5"
       },
       {
