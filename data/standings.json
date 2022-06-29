@@ -243,16 +243,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "88",
-        "gb": "1.0",
-        "l": 30,
+        "elim_num": "87",
+        "gb": "1.5",
+        "l": 31,
         "league_rank": "3",
         "name": "San Diego Padres",
         "sport_rank": "5",
         "team_id": 135,
         "w": 45,
         "wc_elim_num": "-",
-        "wc_gb": "+3.0",
+        "wc_gb": "+2.5",
         "wc_rank": "1"
       },
       {
@@ -272,16 +272,16 @@
       {
         "div_rank": "4",
         "elim_num": "77",
-        "gb": "12.5",
+        "gb": "12.0",
         "l": 41,
-        "league_rank": "10",
+        "league_rank": "9",
         "name": "Arizona Diamondbacks",
-        "sport_rank": "22",
+        "sport_rank": "21",
         "team_id": 109,
-        "w": 33,
+        "w": 34,
         "wc_elim_num": "79",
-        "wc_gb": "8.5",
-        "wc_rank": "7"
+        "wc_gb": "8.0",
+        "wc_rank": "6"
       },
       {
         "div_rank": "5",
@@ -349,14 +349,14 @@
         "elim_num": "76",
         "gb": "13.0",
         "l": 40,
-        "league_rank": "9",
+        "league_rank": "10",
         "name": "Miami Marlins",
-        "sport_rank": "21",
+        "sport_rank": "22",
         "team_id": 146,
         "w": 33,
         "wc_elim_num": "80",
         "wc_gb": "8.0",
-        "wc_rank": "6"
+        "wc_rank": "7"
       },
       {
         "div_rank": "5",
