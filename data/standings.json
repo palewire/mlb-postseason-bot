@@ -26,7 +26,7 @@
         "sport_rank": "17",
         "team_id": 140,
         "w": 36,
-        "wc_elim_num": "85",
+        "wc_elim_num": "83",
         "wc_gb": "4.0",
         "wc_rank": "6"
       },
@@ -40,7 +40,7 @@
         "sport_rank": "18",
         "team_id": 108,
         "w": 37,
-        "wc_elim_num": "82",
+        "wc_elim_num": "80",
         "wc_gb": "5.0",
         "wc_rank": "7"
       },
@@ -54,7 +54,7 @@
         "sport_rank": "19",
         "team_id": 136,
         "w": 37,
-        "wc_elim_num": "82",
+        "wc_elim_num": "80",
         "wc_gb": "5.0",
         "wc_rank": "8"
       },
@@ -68,7 +68,7 @@
         "sport_rank": "30",
         "team_id": 133,
         "w": 26,
-        "wc_elim_num": "71",
+        "wc_elim_num": "69",
         "wc_gb": "16.0",
         "wc_rank": "12"
       }
@@ -93,16 +93,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "74",
-        "gb": "12.0",
-        "l": 33,
+        "elim_num": "73",
+        "gb": "12.5",
+        "l": 34,
         "league_rank": "3",
         "name": "Toronto Blue Jays",
-        "sport_rank": "7",
+        "sport_rank": "8",
         "team_id": 141,
         "w": 44,
         "wc_elim_num": "-",
-        "wc_gb": "+3.0",
+        "wc_gb": "+2.5",
         "wc_rank": "1"
       },
       {
@@ -122,15 +122,15 @@
       {
         "div_rank": "4",
         "elim_num": "71",
-        "gb": "15.5",
+        "gb": "15.0",
         "l": 36,
         "league_rank": "7",
         "name": "Tampa Bay Rays",
         "sport_rank": "14",
         "team_id": 139,
-        "w": 40,
-        "wc_elim_num": "88",
-        "wc_gb": "0.5",
+        "w": 41,
+        "wc_elim_num": "-",
+        "wc_gb": "-",
         "wc_rank": "4"
       },
       {
@@ -143,7 +143,7 @@
         "sport_rank": "22",
         "team_id": 110,
         "w": 35,
-        "wc_elim_num": "81",
+        "wc_elim_num": "79",
         "wc_gb": "6.5",
         "wc_rank": "9"
       }
@@ -190,7 +190,7 @@
         "sport_rank": "16",
         "team_id": 145,
         "w": 36,
-        "wc_elim_num": "85",
+        "wc_elim_num": "83",
         "wc_gb": "4.0",
         "wc_rank": "5"
       },
@@ -204,7 +204,7 @@
         "sport_rank": "26",
         "team_id": 116,
         "w": 29,
-        "wc_elim_num": "78",
+        "wc_elim_num": "76",
         "wc_gb": "11.0",
         "wc_rank": "10"
       },
@@ -218,7 +218,7 @@
         "sport_rank": "27",
         "team_id": 118,
         "w": 28,
-        "wc_elim_num": "77",
+        "wc_elim_num": "75",
         "wc_gb": "12.0",
         "wc_rank": "11"
       }
@@ -384,7 +384,7 @@
         "l": 34,
         "league_rank": "5",
         "name": "Milwaukee Brewers",
-        "sport_rank": "8",
+        "sport_rank": "7",
         "team_id": 158,
         "w": 45,
         "wc_elim_num": "-",
