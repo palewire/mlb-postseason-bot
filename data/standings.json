@@ -271,30 +271,30 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "72",
-        "gb": "14.0",
-        "l": 42,
+        "elim_num": "71",
+        "gb": "14.5",
+        "l": 43,
         "league_rank": "10",
         "name": "Arizona Diamondbacks",
         "sport_rank": "21",
         "team_id": 109,
         "w": 35,
-        "wc_elim_num": "77",
-        "wc_gb": "7.5",
+        "wc_elim_num": "76",
+        "wc_gb": "8.0",
         "wc_rank": "7"
       },
       {
         "div_rank": "5",
         "elim_num": "70",
-        "gb": "16.0",
+        "gb": "15.5",
         "l": 44,
         "league_rank": "11",
         "name": "Colorado Rockies",
         "sport_rank": "23",
         "team_id": 115,
-        "w": 33,
+        "w": 34,
         "wc_elim_num": "75",
-        "wc_gb": "9.5",
+        "wc_gb": "9.0",
         "wc_rank": "8"
       }
     ]
