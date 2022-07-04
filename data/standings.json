@@ -27,20 +27,20 @@
         "team_id": 136,
         "w": 39,
         "wc_elim_num": "78",
-        "wc_gb": "5.0",
+        "wc_gb": "4.5",
         "wc_rank": "6"
       },
       {
         "div_rank": "3",
-        "elim_num": "72",
-        "gb": "13.5",
-        "l": 40,
+        "elim_num": "71",
+        "gb": "14.0",
+        "l": 41,
         "league_rank": "10",
         "name": "Texas Rangers",
         "sport_rank": "19",
         "team_id": 140,
         "w": 37,
-        "wc_elim_num": "80",
+        "wc_elim_num": "79",
         "wc_gb": "5.0",
         "wc_rank": "7"
       },
@@ -49,14 +49,14 @@
         "elim_num": "68",
         "gb": "15.5",
         "l": 44,
-        "league_rank": "11",
+        "league_rank": "12",
         "name": "Los Angeles Angels",
-        "sport_rank": "20",
+        "sport_rank": "21",
         "team_id": 108,
         "w": 37,
         "wc_elim_num": "76",
-        "wc_gb": "7.0",
-        "wc_rank": "8"
+        "wc_gb": "6.5",
+        "wc_rank": "9"
       },
       {
         "div_rank": "5",
@@ -69,7 +69,7 @@
         "team_id": 133,
         "w": 26,
         "wc_elim_num": "65",
-        "wc_gb": "18.0",
+        "wc_gb": "17.5",
         "wc_rank": "12"
       }
     ]
@@ -94,15 +94,15 @@
       {
         "div_rank": "2",
         "elim_num": "70",
-        "gb": "13.5",
+        "gb": "13.0",
         "l": 35,
         "league_rank": "3",
         "name": "Boston Red Sox",
         "sport_rank": "8",
         "team_id": 111,
-        "w": 44,
+        "w": 45,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+2.0",
         "wc_rank": "1"
       },
       {
@@ -116,17 +116,17 @@
         "team_id": 141,
         "w": 44,
         "wc_elim_num": "-",
-        "wc_gb": "+0.5",
+        "wc_gb": "+1.0",
         "wc_rank": "2"
       },
       {
         "div_rank": "4",
-        "elim_num": "69",
-        "gb": "14.5",
-        "l": 36,
+        "elim_num": "68",
+        "gb": "15.0",
+        "l": 37,
         "league_rank": "6",
         "name": "Tampa Bay Rays",
-        "sport_rank": "11",
+        "sport_rank": "12",
         "team_id": 139,
         "w": 43,
         "wc_elim_num": "-",
@@ -136,16 +136,16 @@
       {
         "div_rank": "5",
         "elim_num": "61",
-        "gb": "22.0",
+        "gb": "21.5",
         "l": 44,
-        "league_rank": "12",
+        "league_rank": "11",
         "name": "Baltimore Orioles",
-        "sport_rank": "21",
+        "sport_rank": "20",
         "team_id": 110,
-        "w": 36,
+        "w": 37,
         "wc_elim_num": "76",
-        "wc_gb": "7.5",
-        "wc_rank": "9"
+        "wc_gb": "6.5",
+        "wc_rank": "8"
       }
     ]
   },
@@ -168,15 +168,15 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "82",
-        "gb": "2.0",
-        "l": 36,
+        "elim_num": "81",
+        "gb": "2.5",
+        "l": 37,
         "league_rank": "7",
         "name": "Cleveland Guardians",
-        "sport_rank": "13",
+        "sport_rank": "14",
         "team_id": 114,
         "w": 40,
-        "wc_elim_num": "84",
+        "wc_elim_num": "83",
         "wc_gb": "1.5",
         "wc_rank": "4"
       },
@@ -191,21 +191,21 @@
         "team_id": 145,
         "w": 38,
         "wc_elim_num": "81",
-        "wc_gb": "4.0",
+        "wc_gb": "3.5",
         "wc_rank": "5"
       },
       {
         "div_rank": "4",
         "elim_num": "71",
-        "gb": "12.5",
+        "gb": "12.0",
         "l": 47,
         "league_rank": "13",
         "name": "Detroit Tigers",
         "sport_rank": "26",
         "team_id": 116,
-        "w": 30,
+        "w": 31,
         "wc_elim_num": "73",
-        "wc_gb": "12.0",
+        "wc_gb": "11.0",
         "wc_rank": "10"
       },
       {
@@ -219,7 +219,7 @@
         "team_id": 118,
         "w": 29,
         "wc_elim_num": "72",
-        "wc_gb": "13.0",
+        "wc_gb": "12.5",
         "wc_rank": "11"
       }
     ]
@@ -337,7 +337,7 @@
         "l": 38,
         "league_rank": "7",
         "name": "Philadelphia Phillies",
-        "sport_rank": "14",
+        "sport_rank": "13",
         "team_id": 143,
         "w": 42,
         "wc_elim_num": "81",
@@ -398,7 +398,7 @@
         "l": 37,
         "league_rank": "6",
         "name": "St. Louis Cardinals",
-        "sport_rank": "12",
+        "sport_rank": "11",
         "team_id": 138,
         "w": 44,
         "wc_elim_num": "-",
