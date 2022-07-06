@@ -19,15 +19,15 @@
       {
         "div_rank": "2",
         "elim_num": "69",
-        "gb": "13.5",
+        "gb": "13.0",
         "l": 42,
         "league_rank": "8",
         "name": "Seattle Mariners",
         "sport_rank": "16",
         "team_id": 136,
-        "w": 40,
+        "w": 41,
         "wc_elim_num": "78",
-        "wc_gb": "4.0",
+        "wc_gb": "3.5",
         "wc_rank": "5"
       },
       {
@@ -243,16 +243,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "78",
-        "gb": "4.5",
-        "l": 35,
+        "elim_num": "77",
+        "gb": "5.0",
+        "l": 36,
         "league_rank": "5",
         "name": "San Diego Padres",
         "sport_rank": "7",
         "team_id": 135,
         "w": 47,
         "wc_elim_num": "-",
-        "wc_gb": "+3.0",
+        "wc_gb": "+2.5",
         "wc_rank": "2"
       },
       {
