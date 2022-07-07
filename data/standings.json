@@ -11,15 +11,15 @@
         "name": "Houston Astros",
         "sport_rank": "2",
         "team_id": 117,
-        "w": 53,
+        "w": 54,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "68",
-        "gb": "13.0",
+        "elim_num": "67",
+        "gb": "13.5",
         "l": 42,
         "league_rank": "8",
         "name": "Seattle Mariners",
@@ -32,8 +32,8 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "67",
-        "gb": "15.5",
+        "elim_num": "66",
+        "gb": "16.0",
         "l": 43,
         "league_rank": "11",
         "name": "Texas Rangers",
@@ -46,8 +46,8 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "65",
-        "gb": "16.0",
+        "elim_num": "64",
+        "gb": "16.5",
         "l": 45,
         "league_rank": "12",
         "name": "Los Angeles Angels",
@@ -60,8 +60,8 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "54",
-        "gb": "26.5",
+        "elim_num": "53",
+        "gb": "27.0",
         "l": 56,
         "league_rank": "15",
         "name": "Oakland Athletics",
@@ -210,16 +210,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "66",
-        "gb": "14.5",
-        "l": 50,
+        "elim_num": "65",
+        "gb": "15.0",
+        "l": 51,
         "league_rank": "14",
         "name": "Kansas City Royals",
         "sport_rank": "27",
         "team_id": 118,
         "w": 30,
-        "wc_elim_num": "68",
-        "wc_gb": "13.5",
+        "wc_elim_num": "67",
+        "wc_gb": "14.0",
         "wc_rank": "11"
       }
     ]
