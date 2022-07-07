@@ -422,29 +422,29 @@
       {
         "div_rank": "4",
         "elim_num": "68",
-        "gb": "12.5",
+        "gb": "12.0",
         "l": 48,
         "league_rank": "13",
         "name": "Pittsburgh Pirates",
         "sport_rank": "26",
         "team_id": 134,
-        "w": 33,
+        "w": 34,
         "wc_elim_num": "71",
-        "wc_gb": "9.5",
+        "wc_gb": "9.0",
         "wc_rank": "10"
       },
       {
         "div_rank": "5",
-        "elim_num": "63",
-        "gb": "17.5",
-        "l": 53,
+        "elim_num": "62",
+        "gb": "18.0",
+        "l": 54,
         "league_rank": "15",
         "name": "Cincinnati Reds",
         "sport_rank": "29",
         "team_id": 113,
         "w": 28,
-        "wc_elim_num": "66",
-        "wc_gb": "14.5",
+        "wc_elim_num": "65",
+        "wc_gb": "15.0",
         "wc_rank": "12"
       }
     ]
