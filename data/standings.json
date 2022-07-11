@@ -196,30 +196,30 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "66",
-        "gb": "10.5",
-        "l": 49,
+        "elim_num": "65",
+        "gb": "11.0",
+        "l": 50,
         "league_rank": "13",
         "name": "Detroit Tigers",
         "sport_rank": "24",
         "team_id": 116,
         "w": 36,
-        "wc_elim_num": "69",
-        "wc_gb": "8.0",
+        "wc_elim_num": "68",
+        "wc_gb": "8.5",
         "wc_rank": "10"
       },
       {
         "div_rank": "5",
         "elim_num": "63",
-        "gb": "14.0",
+        "gb": "13.5",
         "l": 52,
         "league_rank": "14",
         "name": "Kansas City Royals",
         "sport_rank": "27",
         "team_id": 118,
-        "w": 32,
+        "w": 33,
         "wc_elim_num": "66",
-        "wc_gb": "11.5",
+        "wc_gb": "11.0",
         "wc_rank": "11"
       }
     ]
