@@ -19,16 +19,16 @@
       {
         "div_rank": "2",
         "elim_num": "64",
-        "gb": "12.5",
+        "gb": "12.0",
         "l": 42,
-        "league_rank": "7",
+        "league_rank": "6",
         "name": "Seattle Mariners",
-        "sport_rank": "14",
+        "sport_rank": "13",
         "team_id": 136,
-        "w": 45,
-        "wc_elim_num": "75",
-        "wc_gb": "0.5",
-        "wc_rank": "4"
+        "w": 46,
+        "wc_elim_num": "-",
+        "wc_gb": "-",
+        "wc_rank": "3"
       },
       {
         "div_rank": "3",
@@ -65,7 +65,7 @@
         "l": 59,
         "league_rank": "15",
         "name": "Oakland Athletics",
-        "sport_rank": "30",
+        "sport_rank": "29",
         "team_id": 133,
         "w": 30,
         "wc_elim_num": "58",
@@ -124,14 +124,14 @@
         "elim_num": "60",
         "gb": "15.5",
         "l": 42,
-        "league_rank": "6",
+        "league_rank": "7",
         "name": "Toronto Blue Jays",
-        "sport_rank": "13",
+        "sport_rank": "14",
         "team_id": 141,
         "w": 46,
         "wc_elim_num": "-",
         "wc_gb": "-",
-        "wc_rank": "3"
+        "wc_rank": "4"
       },
       {
         "div_rank": "5",
@@ -360,16 +360,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "51",
-        "gb": "24.0",
-        "l": 58,
+        "elim_num": "50",
+        "gb": "24.5",
+        "l": 59,
         "league_rank": "15",
         "name": "Washington Nationals",
-        "sport_rank": "29",
+        "sport_rank": "30",
         "team_id": 120,
         "w": 30,
-        "wc_elim_num": "57",
-        "wc_gb": "17.0",
+        "wc_elim_num": "56",
+        "wc_gb": "17.5",
         "wc_rank": "12"
       }
     ]
