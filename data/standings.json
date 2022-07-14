@@ -19,13 +19,13 @@
       {
         "div_rank": "2",
         "elim_num": "64",
-        "gb": "12.0",
+        "gb": "11.5",
         "l": 42,
         "league_rank": "6",
         "name": "Seattle Mariners",
-        "sport_rank": "13",
+        "sport_rank": "12",
         "team_id": 136,
-        "w": 46,
+        "w": 47,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "3"
@@ -40,8 +40,8 @@
         "sport_rank": "20",
         "team_id": 140,
         "w": 40,
-        "wc_elim_num": "72",
-        "wc_gb": "4.5",
+        "wc_elim_num": "71",
+        "wc_gb": "5.0",
         "wc_rank": "8"
       },
       {
@@ -54,8 +54,8 @@
         "sport_rank": "23",
         "team_id": 108,
         "w": 38,
-        "wc_elim_num": "67",
-        "wc_gb": "8.0",
+        "wc_elim_num": "66",
+        "wc_gb": "8.5",
         "wc_rank": "9"
       },
       {
@@ -68,8 +68,8 @@
         "sport_rank": "29",
         "team_id": 133,
         "w": 30,
-        "wc_elim_num": "58",
-        "wc_gb": "16.5",
+        "wc_elim_num": "57",
+        "wc_gb": "17.0",
         "wc_rank": "12"
       }
     ]
@@ -102,7 +102,7 @@
         "team_id": 139,
         "w": 47,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+1.0",
         "wc_rank": "1"
       },
       {
@@ -116,7 +116,7 @@
         "team_id": 111,
         "w": 47,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+0.5",
         "wc_rank": "2"
       },
       {
@@ -129,8 +129,8 @@
         "sport_rank": "14",
         "team_id": 141,
         "w": 46,
-        "wc_elim_num": "-",
-        "wc_gb": "-",
+        "wc_elim_num": "74",
+        "wc_gb": "0.5",
         "wc_rank": "4"
       },
       {
@@ -143,8 +143,8 @@
         "sport_rank": "16",
         "team_id": 110,
         "w": 44,
-        "wc_elim_num": "73",
-        "wc_gb": "2.0",
+        "wc_elim_num": "72",
+        "wc_gb": "2.5",
         "wc_rank": "5"
       }
     ]
@@ -176,8 +176,8 @@
         "sport_rank": "17",
         "team_id": 114,
         "w": 43,
-        "wc_elim_num": "74",
-        "wc_gb": "2.0",
+        "wc_elim_num": "73",
+        "wc_gb": "2.5",
         "wc_rank": "6"
       },
       {
@@ -190,8 +190,8 @@
         "sport_rank": "18",
         "team_id": 145,
         "w": 42,
-        "wc_elim_num": "72",
-        "wc_gb": "3.5",
+        "wc_elim_num": "71",
+        "wc_gb": "4.0",
         "wc_rank": "7"
       },
       {
@@ -204,8 +204,8 @@
         "sport_rank": "25",
         "team_id": 116,
         "w": 37,
-        "wc_elim_num": "65",
-        "wc_gb": "9.5",
+        "wc_elim_num": "64",
+        "wc_gb": "10.0",
         "wc_rank": "10"
       },
       {
@@ -218,8 +218,8 @@
         "sport_rank": "26",
         "team_id": 118,
         "w": 35,
-        "wc_elim_num": "64",
-        "wc_gb": "11.0",
+        "wc_elim_num": "63",
+        "wc_gb": "11.5",
         "wc_rank": "11"
       }
     ]
@@ -337,7 +337,7 @@
         "l": 42,
         "league_rank": "7",
         "name": "Philadelphia Phillies",
-        "sport_rank": "12",
+        "sport_rank": "13",
         "team_id": 143,
         "w": 46,
         "wc_elim_num": "73",
@@ -360,16 +360,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "49",
-        "gb": "25.0",
-        "l": 59,
+        "elim_num": "48",
+        "gb": "25.5",
+        "l": 60,
         "league_rank": "15",
         "name": "Washington Nationals",
         "sport_rank": "30",
         "team_id": 120,
         "w": 30,
-        "wc_elim_num": "56",
-        "wc_gb": "17.5",
+        "wc_elim_num": "55",
+        "wc_gb": "18.0",
         "wc_rank": "12"
       }
     ]
