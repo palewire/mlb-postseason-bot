@@ -243,16 +243,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "67",
-        "gb": "8.0",
-        "l": 39,
+        "elim_num": "66",
+        "gb": "8.5",
+        "l": 40,
         "league_rank": "4",
         "name": "San Diego Padres",
         "sport_rank": "6",
         "team_id": 135,
         "w": 50,
         "wc_elim_num": "-",
-        "wc_gb": "+3.0",
+        "wc_gb": "+2.5",
         "wc_rank": "2"
       },
       {
@@ -272,15 +272,15 @@
       {
         "div_rank": "4",
         "elim_num": "57",
-        "gb": "18.5",
+        "gb": "18.0",
         "l": 49,
         "league_rank": "10",
         "name": "Colorado Rockies",
         "sport_rank": "21",
         "team_id": 115,
-        "w": 39,
+        "w": 40,
         "wc_elim_num": "66",
-        "wc_gb": "7.5",
+        "wc_gb": "7.0",
         "wc_rank": "7"
       },
       {
