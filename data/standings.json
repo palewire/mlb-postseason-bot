@@ -27,7 +27,7 @@
         "team_id": 136,
         "w": 50,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+0.5",
         "wc_rank": "2"
       },
       {
@@ -40,8 +40,8 @@
         "sport_rank": "21",
         "team_id": 140,
         "w": 41,
-        "wc_elim_num": "66",
-        "wc_gb": "6.5",
+        "wc_elim_num": "65",
+        "wc_gb": "7.0",
         "wc_rank": "8"
       },
       {
@@ -54,8 +54,8 @@
         "sport_rank": "23",
         "team_id": 108,
         "w": 39,
-        "wc_elim_num": "61",
-        "wc_gb": "10.0",
+        "wc_elim_num": "60",
+        "wc_gb": "10.5",
         "wc_rank": "9"
       },
       {
@@ -68,8 +68,8 @@
         "sport_rank": "29",
         "team_id": 133,
         "w": 31,
-        "wc_elim_num": "53",
-        "wc_gb": "18.0",
+        "wc_elim_num": "52",
+        "wc_gb": "18.5",
         "wc_rank": "12"
       }
     ]
@@ -102,19 +102,19 @@
         "team_id": 139,
         "w": 50,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+1.0",
         "wc_rank": "1"
       },
       {
         "div_rank": "3",
         "elim_num": "57",
-        "gb": "14.5",
+        "gb": "14.0",
         "l": 43,
         "league_rank": "6",
         "name": "Toronto Blue Jays",
         "sport_rank": "11",
         "team_id": 141,
-        "w": 49,
+        "w": 50,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "3"
@@ -129,8 +129,8 @@
         "sport_rank": "15",
         "team_id": 111,
         "w": 48,
-        "wc_elim_num": "70",
-        "wc_gb": "1.0",
+        "wc_elim_num": "69",
+        "wc_gb": "1.5",
         "wc_rank": "4"
       },
       {
@@ -143,8 +143,8 @@
         "sport_rank": "17",
         "team_id": 110,
         "w": 46,
-        "wc_elim_num": "69",
-        "wc_gb": "2.5",
+        "wc_elim_num": "68",
+        "wc_gb": "3.0",
         "wc_rank": "6"
       }
     ]
@@ -176,8 +176,8 @@
         "sport_rank": "16",
         "team_id": 114,
         "w": 46,
-        "wc_elim_num": "70",
-        "wc_gb": "2.0",
+        "wc_elim_num": "69",
+        "wc_gb": "2.5",
         "wc_rank": "5"
       },
       {
@@ -190,8 +190,8 @@
         "sport_rank": "18",
         "team_id": 145,
         "w": 45,
-        "wc_elim_num": "68",
-        "wc_gb": "3.5",
+        "wc_elim_num": "67",
+        "wc_gb": "4.0",
         "wc_rank": "7"
       },
       {
@@ -204,22 +204,22 @@
         "sport_rank": "25",
         "team_id": 116,
         "w": 37,
-        "wc_elim_num": "59",
-        "wc_gb": "12.0",
+        "wc_elim_num": "58",
+        "wc_gb": "12.5",
         "wc_rank": "10"
       },
       {
         "div_rank": "5",
-        "elim_num": "58",
-        "gb": "13.0",
-        "l": 55,
+        "elim_num": "57",
+        "gb": "13.5",
+        "l": 56,
         "league_rank": "14",
         "name": "Kansas City Royals",
         "sport_rank": "26",
         "team_id": 118,
         "w": 36,
-        "wc_elim_num": "59",
-        "wc_gb": "12.5",
+        "wc_elim_num": "57",
+        "wc_gb": "13.5",
         "wc_rank": "11"
       }
     ]
