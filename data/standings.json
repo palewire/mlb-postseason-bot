@@ -98,7 +98,7 @@
         "l": 41,
         "league_rank": "3",
         "name": "Tampa Bay Rays",
-        "sport_rank": "7",
+        "sport_rank": "6",
         "team_id": 139,
         "w": 51,
         "wc_elim_num": "-",
@@ -243,16 +243,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "62",
-        "gb": "9.5",
-        "l": 41,
+        "elim_num": "61",
+        "gb": "10.0",
+        "l": 42,
         "league_rank": "4",
         "name": "San Diego Padres",
-        "sport_rank": "6",
+        "sport_rank": "7",
         "team_id": 135,
         "w": 52,
         "wc_elim_num": "-",
-        "wc_gb": "+2.5",
+        "wc_gb": "+2.0",
         "wc_rank": "2"
       },
       {
@@ -286,15 +286,15 @@
       {
         "div_rank": "5",
         "elim_num": "51",
-        "gb": "21.5",
+        "gb": "21.0",
         "l": 52,
         "league_rank": "11",
         "name": "Arizona Diamondbacks",
         "sport_rank": "22",
         "team_id": 109,
-        "w": 39,
+        "w": 40,
         "wc_elim_num": "61",
-        "wc_gb": "9.5",
+        "wc_gb": "9.0",
         "wc_rank": "8"
       }
     ]
