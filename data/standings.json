@@ -286,15 +286,15 @@
       {
         "div_rank": "5",
         "elim_num": "48",
-        "gb": "22.0",
+        "gb": "21.5",
         "l": 52,
         "league_rank": "11",
         "name": "Arizona Diamondbacks",
         "sport_rank": "22",
         "team_id": 109,
-        "w": 41,
+        "w": 42,
         "wc_elim_num": "60",
-        "wc_gb": "8.5",
+        "wc_gb": "8.0",
         "wc_rank": "8"
       }
     ]
@@ -360,16 +360,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "41",
-        "gb": "27.0",
-        "l": 64,
+        "elim_num": "40",
+        "gb": "27.5",
+        "l": 65,
         "league_rank": "15",
         "name": "Washington Nationals",
         "sport_rank": "30",
         "team_id": 120,
         "w": 31,
-        "wc_elim_num": "48",
-        "wc_gb": "19.5",
+        "wc_elim_num": "47",
+        "wc_gb": "20.0",
         "wc_rank": "12"
       }
     ]
