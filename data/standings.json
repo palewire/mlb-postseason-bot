@@ -32,16 +32,16 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "50",
-        "gb": "19.5",
-        "l": 50,
+        "elim_num": "49",
+        "gb": "20.0",
+        "l": 51,
         "league_rank": "11",
         "name": "Texas Rangers",
-        "sport_rank": "20",
+        "sport_rank": "21",
         "team_id": 140,
         "w": 42,
-        "wc_elim_num": "62",
-        "wc_gb": "7.5",
+        "wc_elim_num": "61",
+        "wc_gb": "8.0",
         "wc_rank": "8"
       },
       {
@@ -61,15 +61,15 @@
       {
         "div_rank": "5",
         "elim_num": "38",
-        "gb": "29.5",
+        "gb": "29.0",
         "l": 62,
         "league_rank": "15",
         "name": "Oakland Athletics",
         "sport_rank": "29",
         "team_id": 133,
-        "w": 34,
+        "w": 35,
         "wc_elim_num": "50",
-        "wc_gb": "17.5",
+        "wc_gb": "17.0",
         "wc_rank": "12"
       }
     ]
@@ -276,7 +276,7 @@
         "l": 52,
         "league_rank": "10",
         "name": "Colorado Rockies",
-        "sport_rank": "21",
+        "sport_rank": "20",
         "team_id": 115,
         "w": 43,
         "wc_elim_num": "60",
