@@ -11,16 +11,16 @@
         "name": "Houston Astros",
         "sport_rank": "3",
         "team_id": 117,
-        "w": 63,
+        "w": 64,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "56",
-        "gb": "12.0",
-        "l": 44,
+        "elim_num": "54",
+        "gb": "13.0",
+        "l": 45,
         "league_rank": "6",
         "name": "Seattle Mariners",
         "sport_rank": "11",
@@ -32,22 +32,22 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "49",
+        "elim_num": "48",
         "gb": "20.0",
         "l": 51,
         "league_rank": "11",
         "name": "Texas Rangers",
         "sport_rank": "20",
         "team_id": 140,
-        "w": 42,
+        "w": 43,
         "wc_elim_num": "61",
-        "wc_gb": "8.0",
+        "wc_gb": "7.0",
         "wc_rank": "8"
       },
       {
         "div_rank": "4",
-        "elim_num": "45",
-        "gb": "23.0",
+        "elim_num": "44",
+        "gb": "23.5",
         "l": 55,
         "league_rank": "12",
         "name": "Los Angeles Angels",
@@ -55,20 +55,20 @@
         "team_id": 108,
         "w": 40,
         "wc_elim_num": "57",
-        "wc_gb": "11.0",
+        "wc_gb": "10.5",
         "wc_rank": "9"
       },
       {
         "div_rank": "5",
-        "elim_num": "38",
-        "gb": "29.0",
-        "l": 62,
+        "elim_num": "36",
+        "gb": "30.0",
+        "l": 63,
         "league_rank": "15",
         "name": "Oakland Athletics",
         "sport_rank": "29",
         "team_id": 133,
         "w": 35,
-        "wc_elim_num": "50",
+        "wc_elim_num": "49",
         "wc_gb": "17.0",
         "wc_rank": "12"
       }
@@ -84,7 +84,7 @@
         "l": 31,
         "league_rank": "1",
         "name": "New York Yankees",
-        "sport_rank": "1",
+        "sport_rank": "2",
         "team_id": 147,
         "w": 66,
         "wc_elim_num": "-",
@@ -102,7 +102,7 @@
         "team_id": 141,
         "w": 53,
         "wc_elim_num": "-",
-        "wc_gb": "+1.5",
+        "wc_gb": "+2.0",
         "wc_rank": "1"
       },
       {
@@ -116,7 +116,7 @@
         "team_id": 139,
         "w": 52,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+1.5",
         "wc_rank": "2"
       },
       {
@@ -130,7 +130,7 @@
         "team_id": 111,
         "w": 48,
         "wc_elim_num": "64",
-        "wc_gb": "3.5",
+        "wc_gb": "3.0",
         "wc_rank": "5"
       },
       {
@@ -144,7 +144,7 @@
         "team_id": 110,
         "w": 47,
         "wc_elim_num": "64",
-        "wc_gb": "4.0",
+        "wc_gb": "3.5",
         "wc_rank": "7"
       }
     ]
@@ -177,7 +177,7 @@
         "team_id": 114,
         "w": 48,
         "wc_elim_num": "66",
-        "wc_gb": "2.5",
+        "wc_gb": "2.0",
         "wc_rank": "4"
       },
       {
@@ -191,7 +191,7 @@
         "team_id": 145,
         "w": 48,
         "wc_elim_num": "64",
-        "wc_gb": "3.5",
+        "wc_gb": "3.0",
         "wc_rank": "6"
       },
       {
@@ -205,7 +205,7 @@
         "team_id": 118,
         "w": 38,
         "wc_elim_num": "55",
-        "wc_gb": "13.0",
+        "wc_gb": "12.5",
         "wc_rank": "10"
       },
       {
@@ -219,7 +219,7 @@
         "team_id": 116,
         "w": 38,
         "wc_elim_num": "54",
-        "wc_gb": "13.5",
+        "wc_gb": "13.0",
         "wc_rank": "11"
       }
     ]
@@ -234,17 +234,17 @@
         "l": 30,
         "league_rank": "1",
         "name": "Los Angeles Dodgers",
-        "sport_rank": "2",
+        "sport_rank": "1",
         "team_id": 119,
-        "w": 63,
+        "w": 64,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "58",
-        "gb": "10.5",
+        "elim_num": "57",
+        "gb": "11.0",
         "l": 42,
         "league_rank": "4",
         "name": "San Diego Padres",
@@ -257,22 +257,22 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "54",
-        "gb": "15.5",
-        "l": 46,
+        "elim_num": "52",
+        "gb": "16.5",
+        "l": 47,
         "league_rank": "8",
         "name": "San Francisco Giants",
         "sport_rank": "15",
         "team_id": 137,
         "w": 48,
-        "wc_elim_num": "66",
-        "wc_gb": "1.5",
+        "wc_elim_num": "65",
+        "wc_gb": "2.0",
         "wc_rank": "5"
       },
       {
         "div_rank": "4",
-        "elim_num": "47",
-        "gb": "21.5",
+        "elim_num": "46",
+        "gb": "22.0",
         "l": 53,
         "league_rank": "10",
         "name": "Colorado Rockies",
@@ -285,16 +285,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "48",
-        "gb": "21.5",
-        "l": 52,
+        "elim_num": "46",
+        "gb": "22.5",
+        "l": 53,
         "league_rank": "11",
         "name": "Arizona Diamondbacks",
         "sport_rank": "22",
         "team_id": 109,
         "w": 42,
-        "wc_elim_num": "60",
-        "wc_gb": "7.5",
+        "wc_elim_num": "59",
+        "wc_gb": "8.0",
         "wc_rank": "8"
       }
     ]
@@ -361,15 +361,15 @@
       {
         "div_rank": "5",
         "elim_num": "40",
-        "gb": "27.5",
+        "gb": "27.0",
         "l": 65,
         "league_rank": "15",
         "name": "Washington Nationals",
         "sport_rank": "30",
         "team_id": 120,
-        "w": 31,
+        "w": 32,
         "wc_elim_num": "47",
-        "wc_gb": "19.5",
+        "wc_gb": "19.0",
         "wc_rank": "12"
       }
     ]
