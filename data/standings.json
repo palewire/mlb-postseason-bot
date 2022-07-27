@@ -47,15 +47,15 @@
       {
         "div_rank": "4",
         "elim_num": "43",
-        "gb": "23.5",
+        "gb": "23.0",
         "l": 56,
         "league_rank": "12",
         "name": "Los Angeles Angels",
         "sport_rank": "23",
         "team_id": 108,
-        "w": 40,
+        "w": 41,
         "wc_elim_num": "55",
-        "wc_gb": "11.5",
+        "wc_gb": "11.0",
         "wc_rank": "9"
       },
       {
@@ -196,30 +196,30 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "54",
-        "gb": "13.0",
-        "l": 57,
+        "elim_num": "53",
+        "gb": "13.5",
+        "l": 58,
         "league_rank": "13",
         "name": "Kansas City Royals",
         "sport_rank": "26",
         "team_id": 118,
         "w": 39,
-        "wc_elim_num": "54",
-        "wc_gb": "12.5",
+        "wc_elim_num": "53",
+        "wc_gb": "13.0",
         "wc_rank": "10"
       },
       {
         "div_rank": "5",
-        "elim_num": "53",
-        "gb": "13.5",
-        "l": 58,
+        "elim_num": "52",
+        "gb": "14.0",
+        "l": 59,
         "league_rank": "14",
         "name": "Detroit Tigers",
         "sport_rank": "27",
         "team_id": 116,
         "w": 39,
-        "wc_elim_num": "53",
-        "wc_gb": "13.0",
+        "wc_elim_num": "52",
+        "wc_gb": "13.5",
         "wc_rank": "11"
       }
     ]
@@ -244,15 +244,15 @@
       {
         "div_rank": "2",
         "elim_num": "55",
-        "gb": "11.5",
+        "gb": "11.0",
         "l": 44,
         "league_rank": "4",
         "name": "San Diego Padres",
         "sport_rank": "7",
         "team_id": 135,
-        "w": 54,
+        "w": 55,
         "wc_elim_num": "-",
-        "wc_gb": "+3.0",
+        "wc_gb": "+3.5",
         "wc_rank": "2"
       },
       {
