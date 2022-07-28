@@ -346,16 +346,16 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "52",
-        "gb": "14.0",
-        "l": 51,
+        "elim_num": "51",
+        "gb": "14.5",
+        "l": 52,
         "league_rank": "9",
         "name": "Miami Marlins",
         "sport_rank": "19",
         "team_id": 146,
         "w": 46,
-        "wc_elim_num": "61",
-        "wc_gb": "4.5",
+        "wc_elim_num": "60",
+        "wc_gb": "5.0",
         "wc_rank": "6"
       },
       {
@@ -436,15 +436,15 @@
       {
         "div_rank": "5",
         "elim_num": "49",
-        "gb": "16.5",
+        "gb": "16.0",
         "l": 59,
         "league_rank": "14",
         "name": "Cincinnati Reds",
         "sport_rank": "28",
         "team_id": 113,
-        "w": 37,
+        "w": 38,
         "wc_elim_num": "53",
-        "wc_gb": "13.0",
+        "wc_gb": "12.5",
         "wc_rank": "11"
       }
     ]
