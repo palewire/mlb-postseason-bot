@@ -135,17 +135,17 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "43",
-        "gb": "18.5",
-        "l": 51,
-        "league_rank": "9",
+        "elim_num": "42",
+        "gb": "19.0",
+        "l": 52,
+        "league_rank": "10",
         "name": "Boston Red Sox",
-        "sport_rank": "16",
+        "sport_rank": "17",
         "team_id": 111,
         "w": 50,
-        "wc_elim_num": "58",
-        "wc_gb": "4.0",
-        "wc_rank": "6"
+        "wc_elim_num": "57",
+        "wc_gb": "4.5",
+        "wc_rank": "7"
       }
     ]
   },
@@ -185,14 +185,14 @@
         "elim_num": "61",
         "gb": "3.0",
         "l": 50,
-        "league_rank": "10",
+        "league_rank": "9",
         "name": "Chicago White Sox",
-        "sport_rank": "17",
+        "sport_rank": "16",
         "team_id": 145,
         "w": 49,
         "wc_elim_num": "59",
         "wc_gb": "4.0",
-        "wc_rank": "7"
+        "wc_rank": "6"
       },
       {
         "div_rank": "4",
@@ -386,15 +386,15 @@
         "name": "Milwaukee Brewers",
         "sport_rank": "6",
         "team_id": 158,
-        "w": 56,
+        "w": 57,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "60",
-        "gb": "3.0",
+        "elim_num": "59",
+        "gb": "3.5",
         "l": 47,
         "league_rank": "7",
         "name": "St. Louis Cardinals",
@@ -407,8 +407,8 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "49",
-        "gb": "14.5",
+        "elim_num": "48",
+        "gb": "15.0",
         "l": 58,
         "league_rank": "12",
         "name": "Chicago Cubs",
@@ -421,8 +421,8 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "47",
-        "gb": "16.0",
+        "elim_num": "46",
+        "gb": "16.5",
         "l": 60,
         "league_rank": "13",
         "name": "Pittsburgh Pirates",
@@ -435,8 +435,8 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "46",
-        "gb": "17.5",
+        "elim_num": "45",
+        "gb": "18.0",
         "l": 61,
         "league_rank": "14",
         "name": "Cincinnati Reds",
