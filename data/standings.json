@@ -94,15 +94,15 @@
       {
         "div_rank": "2",
         "elim_num": "49",
-        "gb": "12.5",
+        "gb": "12.0",
         "l": 45,
         "league_rank": "3",
         "name": "Toronto Blue Jays",
         "sport_rank": "7",
         "team_id": 141,
-        "w": 56,
+        "w": 57,
         "wc_elim_num": "-",
-        "wc_gb": "+2.0",
+        "wc_gb": "+2.5",
         "wc_rank": "1"
       },
       {
@@ -196,16 +196,16 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "49",
-        "gb": "13.0",
-        "l": 61,
+        "elim_num": "48",
+        "gb": "13.5",
+        "l": 62,
         "league_rank": "13",
         "name": "Detroit Tigers",
         "sport_rank": "25",
         "team_id": 116,
         "w": 41,
-        "wc_elim_num": "48",
-        "wc_gb": "13.5",
+        "wc_elim_num": "47",
+        "wc_gb": "14.0",
         "wc_rank": "10"
       },
       {
