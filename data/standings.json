@@ -32,16 +32,16 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "38",
-        "gb": "20.5",
-        "l": 57,
+        "elim_num": "37",
+        "gb": "21.0",
+        "l": 58,
         "league_rank": "11",
         "name": "Texas Rangers",
-        "sport_rank": "20",
+        "sport_rank": "21",
         "team_id": 140,
         "w": 46,
-        "wc_elim_num": "51",
-        "wc_gb": "8.5",
+        "wc_elim_num": "50",
+        "wc_gb": "9.0",
         "wc_rank": "8"
       },
       {
@@ -122,15 +122,15 @@
       {
         "div_rank": "4",
         "elim_num": "42",
-        "gb": "16.0",
+        "gb": "15.5",
         "l": 51,
         "league_rank": "8",
         "name": "Baltimore Orioles",
         "sport_rank": "15",
         "team_id": 110,
-        "w": 53,
+        "w": 54,
         "wc_elim_num": "57",
-        "wc_gb": "2.0",
+        "wc_gb": "1.5",
         "wc_rank": "5"
       },
       {
@@ -183,15 +183,15 @@
       {
         "div_rank": "3",
         "elim_num": "57",
-        "gb": "2.5",
+        "gb": "2.0",
         "l": 51,
         "league_rank": "9",
         "name": "Chicago White Sox",
         "sport_rank": "16",
         "team_id": 145,
-        "w": 52,
+        "w": 53,
         "wc_elim_num": "57",
-        "wc_gb": "2.5",
+        "wc_gb": "2.0",
         "wc_rank": "6"
       },
       {
@@ -210,16 +210,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "45",
-        "gb": "14.0",
-        "l": 63,
+        "elim_num": "44",
+        "gb": "14.5",
+        "l": 64,
         "league_rank": "14",
         "name": "Kansas City Royals",
         "sport_rank": "28",
         "team_id": 118,
         "w": 41,
-        "wc_elim_num": "45",
-        "wc_gb": "14.0",
+        "wc_elim_num": "44",
+        "wc_gb": "14.5",
         "wc_rank": "11"
       }
     ]
@@ -276,7 +276,7 @@
         "l": 58,
         "league_rank": "10",
         "name": "Arizona Diamondbacks",
-        "sport_rank": "21",
+        "sport_rank": "20",
         "team_id": 109,
         "w": 46,
         "wc_elim_num": "49",
