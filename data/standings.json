@@ -47,29 +47,29 @@
       {
         "div_rank": "4",
         "elim_num": "37",
-        "gb": "22.5",
+        "gb": "22.0",
         "l": 59,
         "league_rank": "12",
         "name": "Los Angeles Angels",
         "sport_rank": "23",
         "team_id": 108,
-        "w": 43,
+        "w": 44,
         "wc_elim_num": "50",
-        "wc_gb": "10.5",
+        "wc_gb": "10.0",
         "wc_rank": "9"
       },
       {
         "div_rank": "5",
-        "elim_num": "31",
-        "gb": "27.5",
-        "l": 65,
+        "elim_num": "30",
+        "gb": "28.0",
+        "l": 66,
         "league_rank": "15",
         "name": "Oakland Athletics",
         "sport_rank": "29",
         "team_id": 133,
         "w": 39,
-        "wc_elim_num": "44",
-        "wc_gb": "15.5",
+        "wc_elim_num": "43",
+        "wc_gb": "16.0",
         "wc_rank": "12"
       }
     ]
